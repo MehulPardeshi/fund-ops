@@ -1,0 +1,11 @@
+# Course material and working files live in Google Drive / Colab, not here
+__reading/
+model_directory/
+*.pdf
+*.ipynb
+*.xlsx
+*.zip
+*.csv
+*.db
+Screenshot*.png
+.DS_Store
