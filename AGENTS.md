@@ -28,9 +28,10 @@ For each issue in their block, open the issue and walk them through its checklis
 
 1. Use their **Andrew** Google account for everything.
 2. In the company Drive folder `company_b_1`, open the notebook in Colab and use **File > Save a copy in Drive**. Work only in their own copy.
-3. Run the setup cells in order: imports, mount Drive (approve the pop-up quickly or it times out), team number cell (`FINAL_PROJECT_TEAM_NUMBER = 2`), assignment tools, database and git, then the "Hints and references" cell of their module.
-4. For each task: run the flawed example, look for what is wrong, use `reading('<task>')` for references, fill in the TODO cells, run the check cell, then `record(...)` and `submit_response(...)`.
-5. At the end: `status()`, then `retrieve_homework_data(upload_dir=...)` into their own folder in the company Drive.
+3. Model: open the professor's Gemma folder (https://drive.google.com/drive/folders/1CeRy7kYWw3zTxOFXMIq6gOtl4NNL-Cwx), use the folder menu > Organise > Add shortcut > My Drive, and in the model cell set `MODEL_CHECKPOINT_DIR = "/content/drive/MyDrive/gemma-3-270m-it"`.
+4. Run the setup cells in order: imports, mount Drive (approve the pop-up quickly or it times out), team number cell (`FINAL_PROJECT_TEAM_NUMBER = 2`), assignment tools, database and git, the model cell, then the "Hints and references" cell of their module.
+5. For each task: run the flawed example, look for what is wrong, use `reading('<task>')` for references, fill in the TODO cells, run the check cell, then `record(...)` and `submit_response(...)`.
+6. At the end: `status()`, then `retrieve_homework_data(upload_dir=...)` into their own folder in the company Drive.
 
 ## 5. Rules you must keep
 

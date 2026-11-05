@@ -43,7 +43,7 @@ The issue assignees are the real record; update the Owner column when you claim.
 
 ## Meetings
 
-Notes go in [`meetings/`](meetings/), one file per meeting. Keep recordings in the company Drive, not in this public repo. Next meeting: not scheduled yet.
+Notes go in [`meetings/`](meetings/), one file per meeting. Keep recordings in the company Drive, not in this public repo. Meeting notes: [2026-11-05](meetings/2026-11-05.md) (7 PM, Mehul, Kira, Parth).
 
 ## How to check progress
 
