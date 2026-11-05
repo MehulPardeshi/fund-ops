@@ -32,6 +32,6 @@ This repo is the **management layer only**. The real work and the submissions li
 - Comment on your issue when you are blocked. Communication is graded.
 - Labels: `module-a` to `module-e`, `admin`, `question`.
 - Who owns what, dates and decisions: [TEAM.md](TEAM.md). Meeting notes: [`meetings/`](meetings/).
-- Owners are shown by `owner-*` labels until everyone has accepted the repo invite; then issues are assigned directly.
+- Using Claude or ChatGPT? Open this repo with it; it follows [AGENTS.md](AGENTS.md), shows the free blocks and walks you through your tasks. Or run `python3 scripts/blocks.py`.
 - Run `python3 scripts/status.py` (needs the `gh` CLI) to see progress per module, open work per person, stale items and comment counts.
 - See [PLAN.md](PLAN.md) for the task list and open questions.

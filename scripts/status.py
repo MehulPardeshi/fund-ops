@@ -29,12 +29,7 @@ def label_names(i):
 
 
 def owners(i):
-    """Assignees, plus owner-* labels for teammates who have not accepted the repo invite yet."""
-    names = {a["login"] for a in i["assignees"]}
-    labelled = {n[len("owner-"):] for n in label_names(i) if n.startswith("owner-")}
-    if not names:
-        names = labelled
-    return sorted(names)
+    return sorted(a["login"] for a in i["assignees"])
 
 
 done = sum(i["state"] == "CLOSED" for i in issues)

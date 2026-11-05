@@ -28,14 +28,15 @@
 
 - Canvas says every student submits their own individual report and each write-up must be unique. Does that mean each of us answers all 21 tasks in our own notebook, or can we split the tasks as the notebook suggests and each submit only our own part?
 
-## Division of labor (assigned Nov 5; see [TEAM.md](TEAM.md) for dates and status)
+## Division of labor (teammates claim their own block; see [TEAM.md](TEAM.md))
 
 | Block | Tasks | Lead |
 |---|---|---|
 | A + coordination and submission | A1–A4 | Mehul |
-| B + E4 + model index | B1–B4, E4, `model_index_company_b1` | Harsh |
-| C + E2 | C1–C5, E2 | Kira |
-| D + E1 + E3 | D1–D4, E1, E3 | Parth |
+| B + E4 | B1–B4, E4 | free |
+| Model index spreadsheet | `model_index_company_b1` | free |
+| C + E2 | C1–C5, E2 | free |
+| D + E1 + E3 | D1–D4, E1, E3 | free |
 
 ## Tracking
 

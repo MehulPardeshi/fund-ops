@@ -1,10 +1,10 @@
-# Meeting, Thu Nov 5, 7 PM (Zoom)
+# Next meeting (date not decided)
 
-Present: Mehul, Kira, Parth. Harsh: not available, updates async.
+Present:
 
 ## Agenda
 
-1. Confirm blocks in [TEAM.md](../TEAM.md) (swap if anyone prefers another block)
+1. Check which blocks are claimed in [TEAM.md](../TEAM.md); sort out any that are still free
 2. Canvas rule: each person submits their own individual report. How do we share notebook work but keep write-ups unique?
 3. Notebook setup: each person makes their own copy, team number 2, runs the setup cells
 4. Model checkpoint path for A3, A4 and the D tasks
