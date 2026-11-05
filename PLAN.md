@@ -26,12 +26,16 @@
 - What is expected in the model index spreadsheet? Some cells are `??` or `CHECK THIS`.
 - Access to the individual folders (Harsh, Khurshida, Mehul, Parth) is still pending.
 
-## Draft division of labor (to be agreed by the team)
+## Division of labor (teammates pick their own block; claims are logged in issue #28)
 
-| Module | Lead |
-|---|---|
-| A + integration and submission | Mehul |
-| B | TBD |
-| C | TBD |
-| D | TBD |
-| E | TBD |
+| Block | Tasks | Lead |
+|---|---|---|
+| A + coordination and submission | A1–A4 | Mehul |
+| B + E4 | B1–B4, E4 | unclaimed |
+| C + E2 | C1–C5, E2 | unclaimed |
+| D + E1 + E3 | D1–D4, E1, E3 | unclaimed |
+| Model index spreadsheet | `model_index_company_b1` | unclaimed (overlaps with D1, E2, E3) |
+
+## Tracking
+
+Run `python3 scripts/status.py` for progress per module, open work per person, stale items and who is commenting.
