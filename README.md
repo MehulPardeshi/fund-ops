@@ -31,6 +31,7 @@ This repo is the **management layer only**. The real work and the submissions li
 - One issue per task. Assign yourself, move the card on the project board, and tick the checklist.
 - Comment on your issue when you are blocked. Communication is graded.
 - Labels: `module-a` to `module-e`, `admin`, `question`.
-- Teammates pick their own block by commenting on issue #28.
+- Who owns what, dates and decisions: [TEAM.md](TEAM.md). Meeting notes: [`meetings/`](meetings/).
+- Owners are shown by `owner-*` labels until everyone has accepted the repo invite; then issues are assigned directly.
 - Run `python3 scripts/status.py` (needs the `gh` CLI) to see progress per module, open work per person, stale items and comment counts.
 - See [PLAN.md](PLAN.md) for the task list and open questions.

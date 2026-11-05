@@ -28,6 +28,15 @@ def label_names(i):
     return [l["name"] for l in i["labels"]]
 
 
+def owners(i):
+    """Assignees, plus owner-* labels for teammates who have not accepted the repo invite yet."""
+    names = {a["login"] for a in i["assignees"]}
+    labelled = {n[len("owner-"):] for n in label_names(i) if n.startswith("owner-")}
+    if not names:
+        names = labelled
+    return sorted(names)
+
+
 done = sum(i["state"] == "CLOSED" for i in issues)
 print(f"OVERALL: {done}/{len(issues)} issues closed\n")
 
@@ -35,15 +44,15 @@ print("BY MODULE")
 for m in ["module-a", "module-b", "module-c", "module-d", "module-e", "admin"]:
     group = [i for i in issues if m in label_names(i)]
     closed = sum(i["state"] == "CLOSED" for i in group)
-    owners = sorted({a["login"] for i in group for a in i["assignees"]})
-    print(f"  {m:9} {closed}/{len(group)} done   owners: {', '.join(owners) or 'nobody yet'}")
+    who = sorted({o for i in group for o in owners(i)})
+    print(f"  {m:9} {closed}/{len(group)} done   owners: {', '.join(who) or 'nobody yet'}")
 
 print("\nOPEN WORK BY PERSON")
 by_person = defaultdict(list)
 for i in issues:
     if i["state"] == "OPEN":
-        for a in i["assignees"] or [{"login": "UNASSIGNED"}]:
-            by_person[a["login"]].append(i)
+        for o in owners(i) or ["UNASSIGNED"]:
+            by_person[o].append(i)
 for person, items in sorted(by_person.items()):
     print(f"  {person}: {len(items)} open")
     for i in sorted(items, key=lambda x: x["number"]):
