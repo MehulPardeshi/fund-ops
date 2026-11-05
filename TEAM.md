@@ -8,7 +8,7 @@ Pick a free block yourself: ask your AI assistant to open this repo (it follows 
 
 | Block | Tasks | Issues | Owner |
 |---|---|---|---|
-| A | A1–A4, plus Division of Labor table, questions to the teaching team, final AS01 email | #1–#4, #23, #26, #27 | Mehul |
+| A | A1–A4 (done, saved Nov 5), plus Division of Labor table, questions to the teaching team, final AS01 email | #1–#4, #23, #26, #27 | Mehul |
 | B | B1–B4, E4 | #5–#8, #21 | free |
 | C | C1–C5, E2 | #9–#13, #19 | free |
 | D | D1–D4, E1, E3 | #14–#18, #20 | free |
