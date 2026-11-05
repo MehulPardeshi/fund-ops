@@ -2,6 +2,10 @@
 
 This repo tracks Assignment 1 for Company B1 (Final Project Team 2) in 94-879 *Fundamentals of Operationalizing AI*. Each teammate works with their own assistant (Claude, ChatGPT, Codex or similar). Follow these steps whenever a teammate opens this repo with you.
 
+## 0. Read first
+
+Read [docs/PROJECT_GUIDE.md](docs/PROJECT_GUIDE.md) (the case, targets, deliverables, grading, notebook mechanics and a one-line summary of every task) and [docs/COMMS.md](docs/COMMS.md) (questions to the professor and her answers) before advising anyone.
+
 ## 1. Find out who you are working with
 
 - If you can run commands: `gh api user --jq .login` gives their GitHub username.
@@ -53,6 +57,8 @@ For each issue in their block, open the issue and walk them through its checklis
 
 | File | What |
 |---|---|
+| [docs/PROJECT_GUIDE.md](docs/PROJECT_GUIDE.md) | Case summary, targets, deliverables, grading, notebook how-to, every task in one line |
+| [docs/COMMS.md](docs/COMMS.md) | Channels, questions to the professor and answers |
 | [TEAM.md](TEAM.md) | Blocks, owners, dates, decisions |
 | [PLAN.md](PLAN.md) | Deliverables, task list, open questions for the professor |
 | [meetings/](meetings/) | Meeting notes |

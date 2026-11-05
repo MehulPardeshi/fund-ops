@@ -9,3 +9,6 @@ model_directory/
 *.db
 Screenshot*.png
 .DS_Store
+
+# Mehul's own drafts (form answers, emails); never commit
+private/
