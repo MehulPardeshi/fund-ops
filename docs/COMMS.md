@@ -13,7 +13,7 @@
 
 | Date | Question | Answer |
 |---|---|---|
-| Nov 5 | Folder access: individual folders in `company_b_1` say "You need permission" for all four of us | pending |
+| Nov 5 | Folder access: individual folders in `company_b_1` say "You need permission" for all four of us | Mehul's folder opened by Nov 6; Harsh, Khurshida and Parth still locked on Nov 6 (request access from the folder) |
 | Nov 5 | If we split the modules, does each person still run the full notebook and export, since `status()` expects every task? Or can we merge into one run? | pending |
 | Nov 5 | Latency: case says under 5 s (P95), task D4 says under 3 s. Which one? | pending |
 | Nov 5 | Model index spreadsheet: what exactly to complete, which models, what to do with "??" and "CHECK THIS" cells | pending |
