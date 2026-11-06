@@ -39,7 +39,8 @@ For each issue in their block, open the issue and walk them through its checklis
 
 ## 5. Rules you must keep
 
-- **Canvas:** every student submits their own individual report, and each write-up must be unique. Sharing strategies, code and materials inside the team is allowed. Do not copy a teammate's text.
+- **Splitting work:** the professor confirmed (Nov 6) that a collaborative team may divide the modules. Each person writes their own block in their own words; do not copy a teammate's text. Everyone uploads their own notebook export and the team report (with the who-did-what table) to their own folder.
+- **Models:** use gemma-3-270m-it or any model on the professor's approved list (see docs/PROJECT_GUIDE.md).
 - **No collaboration outside the team.**
 - **No names, emails or student IDs** in the notebook. Team number 2 is the only identifier.
 - **Sources:** cite only what the teammate actually read, with the date.

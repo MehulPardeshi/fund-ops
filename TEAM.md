@@ -13,7 +13,7 @@ Pick a free block yourself: ask your AI assistant to open this repo (it follows 
 | C | C1–C5, E2 | #9–#13, #19 | free |
 | D | D1–D4, E1, E3 | #14–#18, #20 | free |
 | sheet | `model_index_company_b1` spreadsheet | #24 | free |
-| everyone | Self-evaluation form (blog post), own Canvas report, export zip | #22, #25 | each person |
+| everyone | Self-evaluation form (blog post), own notebook export zip, team report in own folder | #22, #25 | each person |
 
 The issue assignees are the real record; update the Owner column when you claim.
 
@@ -24,12 +24,12 @@ The issue assignees are the real record; update the Owner column when you claim.
 | Fri Nov 6, noon | Claim a block |
 | Sun Nov 8 | First drafts of every task in your own notebook copy; comment on each issue with a short summary |
 | Tue Nov 10 | Review each other's drafts |
-| Thu Nov 12 | Self-evaluation form, Canvas report, export zip done |
+| Thu Nov 12 | Self-evaluation form, export zip and team report in your folder |
 | Fri Nov 13, 11:59 PM ET | Assignment 1 due; Mehul sends the AS01 email |
 
 ## Rules from Canvas (read Nov 5)
 
-- Everyone submits their **own individual report to Canvas**. We may share strategies, code and materials inside the team, but each written submission must be unique. We have asked the professor whether that means everyone answers all 21 tasks.
+- Professor (Nov 6): we may divide the modules among us. Everyone puts a **comprehensive report** in their own Drive folder, and it must include a **table of who did which module**. Write your own answers in your own words; do not copy a teammate's text.
 - No collaboration with anyone outside the team.
 - The company Google Chat is the graded team channel. Post decisions there too, not only on WhatsApp.
 
@@ -40,7 +40,8 @@ The issue assignees are the real record; update the Owner column when you claim.
 | Nov 5 | Repo is the tracker; one issue per task; teammates claim their own block | One source of truth |
 | Nov 5 | Team number in the notebook is 2 | Final project team number |
 | Nov 5 | A1: LTI 1.3 tool inside the LMS; instructor approves every AI-drafted message; if the AI is down at a deadline, accept and queue | Human in the loop, students never harmed by an outage |
-| Nov 5 (meeting) | Everyone is an individual contributor; Plan A (each person does their block); design for 3 s latency; open-weights models from the professor's approved list on university-contracted servers; D lead names the models; retention until end of term plus appeal window | See [meetings/2026-11-05.md](meetings/2026-11-05.md) |
+| Nov 5 (meeting) | Plan A (each person does their block); design for 3 s latency; open-weights models from the professor's approved list on university-contracted servers; D lead names the models; retention until end of term plus appeal window | See [meetings/2026-11-05.md](meetings/2026-11-05.md) |
+| Nov 6 | Contributor type is Collaborative (divide and conquer). Each person uploads a comprehensive team report with a who-did-what table to their own folder, plus their own notebook export. Mehul compiles the team report | Professor's reply, see [docs/COMMS.md](docs/COMMS.md) |
 
 ## Meetings
 

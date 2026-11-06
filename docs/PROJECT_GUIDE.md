@@ -33,9 +33,10 @@ Everything a teammate (or their AI assistant) needs to understand the assignment
 | 3 | Notebook Modules A1 to E4 | see [TEAM.md](../TEAM.md) | own copy of the Colab notebook |
 | 4 | Model index spreadsheet `model_index_company_b1` | owner of block "sheet" | company Drive |
 | 5 | Export zip from `retrieve_homework_data(...)` | each person | own folder inside `company_b_1` |
+| 5b | Team report: all modules plus a who-did-what table | Mehul compiles; each person uploads a copy | own folder inside `company_b_1` |
 | 6 | Email "OAI - B2 - 2 - AS01 Complete" to the teaching team | Mehul | email |
 
-The instructions say a team may divide the modules among members who each work independently, as long as the Division of Labor table says who leads which module. Canvas also says every person's written work must be their own and unique.
+The professor confirmed on Nov 6 that we may divide the modules however we like (we are a **collaborative, divide-and-conquer** team). Everyone must still put a **comprehensive report** in their own folder, and it must include a **table of who did which module**. Individual contributors, by contrast, must complete every module themselves.
 
 ## How we are graded
 
@@ -105,6 +106,14 @@ The instructions say a team may divide the modules among members who each work i
 | E2 | Fix capacity math; size the system for the final-exam peak (40,000 students, about 6 documents each) at 5 s per document | Little's Law; Efficiently Scaling Transformer Inference; Google SRE, Handling Overload |
 | E3 | Fix a preparation step that counts words as tokens; write `prepare_v1` that respects the tokenizer and length limit | Sentence-BERT; Fishing for Magikarp; EmbeddingGemma model card |
 | E4 | Find data flows that expose student data or let AI output reach students without approval; test the notebook's identifier filter | FERPA; GDPR; OWASP LLM Top 10; NIST AI RMF |
+
+## Approved models (professor's list, Nov 6)
+
+There is no single right model. Use gemma-3-270m-it or any model on the professor's approved list; choosing the product's model is itself part of the analysis (D1, D2, E3). Files for models marked "available now" can be requested from the professor; others can be downloaded with her script from HuggingFace, following the CMU Contracts Office rules.
+
+- Available now: Microsoft Phi-4-mini-instruct, Phi-4-mini-reasoning; Google gemma-3-270m-it; Meta Llama-3-8B-Instruct; Cohere Tiny Aya Global.
+- Also on the list (ask or download): Google embeddinggemma-300m, Gemma 3n E4B, Gemma 4 E2B and E4B, ShieldGemma 2, TranslateGemma, PaliGemma 2; Meta Llama 3.2 1B and 3B (including quantised versions), Llama Prompt Guard 2; Microsoft Phi-3.5-mini, Phi-3/3.5 vision, Phi-4 multimodal; Cohere Aya Expanse 8B, Aya Vision 8B, Command R7B, North Mini Code, Tiny Aya Earth.
+- Check the PDF for the exact current list before naming a model.
 
 ## Shared design decisions so far
 
