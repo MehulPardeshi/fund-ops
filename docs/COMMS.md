@@ -23,6 +23,10 @@
 
 Update the Answer column and post the answer in the Google Chat when the professor replies.
 
+## Course announcements to know
+
+- Nov 6: "OAI Model List: LLMs usable in our class" on Canvas. Only open-source LLMs approved by CMU IT may be used; files come from the professor (models marked available now) or her downloader script, following the CMU Contracts Office rules for HuggingFace. Relevant to D1, D2, E3 and the model index spreadsheet.
+
 ## Meetings
 
 Notes are in [`meetings/`](../meetings/).

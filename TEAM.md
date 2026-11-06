@@ -40,6 +40,7 @@ The issue assignees are the real record; update the Owner column when you claim.
 | Nov 5 | Repo is the tracker; one issue per task; teammates claim their own block | One source of truth |
 | Nov 5 | Team number in the notebook is 2 | Final project team number |
 | Nov 5 | A1: LTI 1.3 tool inside the LMS; instructor approves every AI-drafted message; if the AI is down at a deadline, accept and queue | Human in the loop, students never harmed by an outage |
+| Nov 5 (meeting) | Everyone is an individual contributor; Plan A (each person does their block); design for 3 s latency; open-weights models from the professor's approved list on university-contracted servers; D lead names the models; retention until end of term plus appeal window | See [meetings/2026-11-05.md](meetings/2026-11-05.md) |
 
 ## Meetings
 
