@@ -23,8 +23,8 @@ The issue assignees are the real record; update the Owner column when you claim.
 |---|---|
 | Fri Nov 6, noon | Claim a block |
 | Tue Nov 10 | Review each other's drafts |
-| Thu Nov 12 | Every block finished; send Mehul your `show_responses()` output for the team report |
-| Fri Nov 13 | Mehul shares the final team report |
+| Fri Nov 13 | Every block finished; send Mehul your `show_responses()` output for the team report |
+| Fri Nov 13 to Sat Nov 14 | Mehul builds and shares the final team report and the completed model spreadsheet |
 | **Sat Nov 14, 11:59 PM ET (team hard deadline)** | Everyone uploads their own export zip and the final team report to their own folder; Mehul sends the AS01 email |
 | Sun Nov 15, 11:59 PM ET | Official Canvas deadline (buffer only, do not plan to use it) |
 
@@ -42,6 +42,7 @@ The issue assignees are the real record; update the Owner column when you claim.
 | Nov 5 | Team number in the notebook is 2 | Final project team number |
 | Nov 5 | A1: LTI 1.3 tool inside the LMS; instructor approves every AI-drafted message; if the AI is down at a deadline, accept and queue | Human in the loop, students never harmed by an outage |
 | Nov 5 (meeting) | Plan A (each person does their block); design for 3 s latency; open-weights models from the professor's approved list on university-contracted servers; D lead names the models; retention until end of term plus appeal window | See [meetings/2026-11-05.md](meetings/2026-11-05.md) |
+| Nov 9 | Division of Labor table posted in the company Google Chat. Harsh: C1–C5 and E2. Answers due to Mehul Fri Nov 13 | Required deliverable; E2 belongs to block C |
 | Nov 6 | Contributor type is Collaborative (divide and conquer). Each person uploads a comprehensive team report with a who-did-what table to their own folder, plus their own notebook export. Mehul compiles the team report | Professor's reply, see [docs/COMMS.md](docs/COMMS.md) |
 
 ## Meetings

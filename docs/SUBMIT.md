@@ -2,13 +2,13 @@
 
 Team hard deadline: **Sat Nov 14, 11:59 PM ET**. Official Canvas deadline: Sun Nov 15, 11:59 PM ET (buffer only). Nothing is submitted on Canvas; everything goes into your own Drive folder, then Mehul emails the teaching team.
 
-## 1. Finish your block (by Thu Nov 12)
+## 1. Finish your block (by Fri Nov 13)
 
 - Every task in your block has its `record(...)` and `submit_response(...)` cells run.
 - Run `status()`. Every task in your block should say `yes`. Paste the output as a comment on issue #28.
 - Close each of your GitHub issues with a one-line summary.
 
-## 2. Send Mehul your answers (by Thu Nov 12)
+## 2. Send Mehul your answers (by Fri Nov 13)
 
 Run `show_responses()` in your notebook and send Mehul the output (copy the text, or File > Download > .ipynb). He puts every block into the team report.
 
@@ -36,7 +36,7 @@ Your folder is `company_b_1 > <your name>`. If it still says "You need permissio
 | File | Name |
 |---|---|
 | Notebook data export | `oai_assignment01_team2_<time>.zip` (as made by the export) |
-| Team report (all modules plus the who-did-what table, same file for everyone) | `OAI_B2_Team2_AS01_Report` (Mehul shares it on Fri Nov 13) |
+| Team report (all modules plus the who-did-what table, same file for everyone) | `OAI_B2_Team2_AS01_Report` (Mehul shares it once all answers are in) |
 | Completed model index spreadsheet (same file for everyone) | `model_index_company_b1_completed.xlsx` (Mehul shares it with the team report) |
 | Your notebook (optional) | `oai_assignment01_notebook_team2_<your block>.ipynb` |
 

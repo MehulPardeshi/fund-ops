@@ -51,7 +51,7 @@ For each issue in their block, open the issue and walk them through its checklis
 ## 6. Keep the tracker current
 
 - Comment on the issue when they start, when they are stuck, and when a draft is done. Close it once `status()` shows the task saved.
-- Dates are in [TEAM.md](TEAM.md): blocks finished and answers sent to Mehul by Thu Nov 12, uploads by the team hard deadline Sat Nov 14 (official deadline Sun Nov 15).
+- Dates are in [TEAM.md](TEAM.md): blocks finished and answers sent to Mehul by Fri Nov 13, uploads by the team hard deadline Sat Nov 14 (official deadline Sun Nov 15).
 - Overall progress: `python3 scripts/status.py`.
 
 ## Repo map
