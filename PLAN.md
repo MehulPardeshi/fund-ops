@@ -7,9 +7,9 @@ Team hard deadline **Sat Nov 14, 11:59 PM ET**; official deadline Sun Nov 15, 11
 | # | Deliverable | Who | Status |
 |---|---|---|---|
 | 1 | Self-evaluation (blog post and Google Form) | each person | Mehul done |
-| 2 | Division of Labor table in the company Google Chat (contributor type: Collaborative) | Mehul | ready to post (spreadsheet owner still open) |
+| 2 | Division of Labor table in the company Google Chat (contributor type: Collaborative) | Mehul | ready to post |
 | 3 | Notebook tasks A1 to E4 | block owners, see [TEAM.md](TEAM.md) | A done (Mehul); B reported done (Parth); C in progress (Harsh); D in progress (Kira) |
-| 4 | `model_index_company_b1` spreadsheet | block "sheet" | unclaimed |
+| 4 | `model_index_company_b1` spreadsheet | Mehul | in progress |
 | 5 | Notebook export zip in own folder | each person | Mehul exported, uploads on Nov 14 |
 | 6 | Team report (all modules plus who-did-what table) in every folder | Mehul compiles | Module A in; B to E pending |
 | 7 | Email `OAI - B2 - 2 - AS01 Complete` | Mehul | last step |

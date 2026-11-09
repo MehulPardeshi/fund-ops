@@ -12,7 +12,7 @@ Pick a free block yourself: ask your AI assistant to open this repo (it follows 
 | B | B1–B4, E4 | #5–#8, #21 | Parth (reported done Nov 9; waiting for confirmation on the issues) |
 | C | C1–C5, E2 | #9–#13, #19 | Harsh (picked Nov 9 on WhatsApp; will be assigned on GitHub once he accepts the repo invite) |
 | D | D1–D4, E1, E3 | #14–#18, #20 | Kira (picked Nov 9) |
-| sheet | `model_index_company_b1` spreadsheet | #24 | free: per the Nov 5 decision, whoever finishes their block first takes it (Parth reported done first) |
+| sheet | `model_index_company_b1` spreadsheet | #24 | Mehul |
 | everyone | Self-evaluation form (blog post), own notebook export zip, team report in own folder | #22, #25 | each person |
 
 The issue assignees are the real record; update the Owner column when you claim.
