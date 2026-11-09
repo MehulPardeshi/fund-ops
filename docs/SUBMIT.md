@@ -37,6 +37,7 @@ Your folder is `company_b_1 > <your name>`. If it still says "You need permissio
 |---|---|
 | Notebook data export | `oai_assignment01_team2_<time>.zip` (as made by the export) |
 | Team report (all modules plus the who-did-what table, same file for everyone) | `OAI_B2_Team2_AS01_Report` (Mehul shares it on Fri Nov 13) |
+| Completed model index spreadsheet (same file for everyone) | `model_index_company_b1_completed.xlsx` (Mehul shares it with the team report) |
 | Your notebook (optional) | `oai_assignment01_notebook_team2_<your block>.ipynb` |
 
 Then comment "uploaded" on issue #25.
