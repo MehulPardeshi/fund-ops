@@ -22,10 +22,11 @@ The issue assignees are the real record; update the Owner column when you claim.
 | Date | What |
 |---|---|
 | Fri Nov 6, noon | Claim a block |
-| Sun Nov 8 | First drafts of every task in your own notebook copy; comment on each issue with a short summary |
 | Tue Nov 10 | Review each other's drafts |
-| Thu Nov 12 | Self-evaluation form, export zip and team report in your folder |
-| Sun Nov 15, 11:59 PM ET | Assignment 1 due; Mehul sends the AS01 email |
+| Thu Nov 12 | Every block finished; send Mehul your `show_responses()` output for the team report |
+| Fri Nov 13 | Mehul shares the final team report |
+| **Sat Nov 14, 11:59 PM ET (team hard deadline)** | Everyone uploads their own export zip and the final team report to their own folder; Mehul sends the AS01 email |
+| Sun Nov 15, 11:59 PM ET | Official Canvas deadline (buffer only, do not plan to use it) |
 
 ## Rules from Canvas (read Nov 5)
 
