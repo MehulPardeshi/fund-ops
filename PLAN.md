@@ -1,13 +1,20 @@
-# Assignment 1 plan (due Sun Nov 15, 11:59 PM ET)
+# Assignment 1 plan
+
+Team hard deadline **Sat Nov 14, 11:59 PM ET**; official deadline Sun Nov 15, 11:59 PM ET (moved from Nov 13 on Nov 6).
 
 ## Deliverables
 
-1. Self-evaluation: read the blog post, complete the Google Form (each person).
-2. Division of Labor table posted in company Google Chat.
-3. Colab notebook, Modules A to E (21 tasks).
-4. Assignment data zip from `retrieve_homework_data(...)`, uploaded to the individual folder in the company Drive.
-5. `model_index_company_b1` spreadsheet completed.
-6. Email to the teaching team. Subject: `OAI - <SECTION #> - <TEAM #> - AS01 Complete`.
+| # | Deliverable | Who | Status |
+|---|---|---|---|
+| 1 | Self-evaluation (blog post and Google Form) | each person | Mehul done |
+| 2 | Division of Labor table in the company Google Chat (contributor type: Collaborative) | Mehul | waiting for C and D to be claimed |
+| 3 | Notebook tasks A1 to E4 | block owners, see [TEAM.md](TEAM.md) | A done; B reported done; C, D unclaimed |
+| 4 | `model_index_company_b1` spreadsheet | block "sheet" | unclaimed |
+| 5 | Notebook export zip in own folder | each person | Mehul exported, uploads on Nov 14 |
+| 6 | Team report (all modules plus who-did-what table) in every folder | Mehul compiles | Module A in; B to E pending |
+| 7 | Email `OAI - B2 - 2 - AS01 Complete` | Mehul | last step |
+
+How to do 3, 5 and 6: [docs/SUBMIT.md](docs/SUBMIT.md).
 
 ## Tasks
 
@@ -21,23 +28,7 @@
 
 ## Open questions for the teaching team
 
-- Does each person run and export the notebook themselves, or can modules be split and merged? `status()` expects every task done in one run.
-- Case PDF says latency under 5 s (P95); Task D4 says under 3 s. Which applies?
-- What is expected in the model index spreadsheet? Some cells are `??` or `CHECK THIS`.
-- Access to the individual folders (Harsh, Khurshida, Mehul, Parth) is still pending.
+Answered questions and the full log are in [docs/COMMS.md](docs/COMMS.md). Still open:
 
-- Canvas says every student submits their own individual report and each write-up must be unique. Does that mean each of us answers all 21 tasks in our own notebook, or can we split the tasks as the notebook suggests and each submit only our own part?
-
-## Division of labor (teammates claim their own block; see [TEAM.md](TEAM.md))
-
-| Block | Tasks | Lead |
-|---|---|---|
-| A + coordination and submission | A1–A4 | Mehul |
-| B + E4 | B1–B4, E4 | free |
-| Model index spreadsheet | `model_index_company_b1` | free |
-| C + E2 | C1–C5, E2 | free |
-| D + E1 + E3 | D1–D4, E1, E3 | free |
-
-## Tracking
-
-Run `python3 scripts/status.py` for progress per module, open work per person, stale items and who is commenting.
+- Latency: case says under 5 s (P95), task D4 says under 3 s. Team decision until answered: design for 3 s.
+- Model index spreadsheet: what exactly to complete, and what to do with the `??` and `CHECK THIS` cells.

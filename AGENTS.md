@@ -35,7 +35,7 @@ For each issue in their block, open the issue and walk them through its checklis
 3. Model: open the professor's Gemma folder (https://drive.google.com/drive/folders/1CeRy7kYWw3zTxOFXMIq6gOtl4NNL-Cwx), use the folder menu > Organise > Add shortcut > My Drive, and in the model cell set `MODEL_CHECKPOINT_DIR = "/content/drive/MyDrive/gemma-3-270m-it"`.
 4. Run the setup cells in order: imports, mount Drive (approve the pop-up quickly or it times out), team number cell (`FINAL_PROJECT_TEAM_NUMBER = 2`), assignment tools, database and git, the model cell, then the "Hints and references" cell of their module.
 5. For each task: run the flawed example, look for what is wrong, use `reading('<task>')` for references, fill in the TODO cells, run the check cell, then `record(...)` and `submit_response(...)`.
-6. At the end: `status()`, then `retrieve_homework_data(upload_dir=...)` into their own folder in the company Drive.
+6. At the end, follow [docs/SUBMIT.md](docs/SUBMIT.md): paste `status()` on issue #28, send Mehul the `show_responses()` output for the team report, export with `retrieve_homework_data(upload_dir=..., download=False)` (or `scripts/export_local.py` if Colab is down), and upload the zip and the team report to their own folder.
 
 ## 5. Rules you must keep
 
@@ -51,7 +51,7 @@ For each issue in their block, open the issue and walk them through its checklis
 ## 6. Keep the tracker current
 
 - Comment on the issue when they start, when they are stuck, and when a draft is done. Close it once `status()` shows the task saved.
-- Draft deadline Sun Nov 8, team review Tue Nov 10, due Sun Nov 15 11:59 PM ET.
+- Dates are in [TEAM.md](TEAM.md): blocks finished and answers sent to Mehul by Thu Nov 12, uploads by the team hard deadline Sat Nov 14 (official deadline Sun Nov 15).
 - Overall progress: `python3 scripts/status.py`.
 
 ## Repo map
@@ -59,9 +59,11 @@ For each issue in their block, open the issue and walk them through its checklis
 | File | What |
 |---|---|
 | [docs/PROJECT_GUIDE.md](docs/PROJECT_GUIDE.md) | Case summary, targets, deliverables, grading, notebook how-to, every task in one line |
+| [docs/SUBMIT.md](docs/SUBMIT.md) | Finish, export, upload, file names |
 | [docs/COMMS.md](docs/COMMS.md) | Channels, questions to the professor and answers |
 | [TEAM.md](TEAM.md) | Blocks, owners, dates, decisions |
 | [PLAN.md](PLAN.md) | Deliverables, task list, open questions for the professor |
 | [meetings/](meetings/) | Meeting notes |
 | `scripts/blocks.py` | List or claim blocks |
 | `scripts/status.py` | Progress per module and person |
+| `scripts/export_local.py` | Export zip on your computer if Colab is down |

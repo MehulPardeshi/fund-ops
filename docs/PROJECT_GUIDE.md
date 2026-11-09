@@ -14,7 +14,7 @@ Everything a teammate (or their AI assistant) needs to understand the assignment
 
 | Metric | Target |
 |---|---|
-| Embedding and scoring latency | under 5.0 s per document (P95). Task D4 says under 3 s; we asked the professor which applies |
+| Embedding and scoring latency | under 5.0 s per document (P95). Task D4 says under 3 s; still asked, so the team designs for 3 s |
 | Availability | 99.99% |
 | Detection quality | ROC-AUC above 92% |
 | False positive rate | under 1% |
@@ -57,7 +57,7 @@ The professor confirmed on Nov 6 that we may divide the modules however we like 
 - `hint('B1')` gives up to three hints, `reading('B1')` lists the references. Both are logged.
 - Everything is logged to a database in your Drive (`MyDrive/oai_assignment01`) with your team number only. Never type names, emails or student IDs into the notebook.
 - Every `record` and `submit_response` can be re-run; each run is saved as a new revision.
-- `status()` shows which tasks are saved. At the end run `retrieve_homework_data(upload_dir='<path to your folder>')`.
+- `status()` shows which tasks are saved. To export and upload, follow [SUBMIT.md](SUBMIT.md); it also covers what to do if Colab will not start.
 
 ## Tasks, one line each
 

@@ -28,7 +28,7 @@ The issue assignees are the real record; update the Owner column when you claim.
 | **Sat Nov 14, 11:59 PM ET (team hard deadline)** | Everyone uploads their own export zip and the final team report to their own folder; Mehul sends the AS01 email |
 | Sun Nov 15, 11:59 PM ET | Official Canvas deadline (buffer only, do not plan to use it) |
 
-## Rules from Canvas (read Nov 5)
+## Rules
 
 - Professor (Nov 6): we may divide the modules among us. Everyone puts a **comprehensive report** in their own Drive folder, and it must include a **table of who did which module**. Write your own answers in your own words; do not copy a teammate's text.
 - No collaboration with anyone outside the team.
