@@ -1,4 +1,4 @@
-# Assignment 1 plan (due Fri Nov 13, 11:59 PM ET)
+# Assignment 1 plan (due Sun Nov 15, 11:59 PM ET)
 
 ## Deliverables
 

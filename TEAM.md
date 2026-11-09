@@ -25,7 +25,7 @@ The issue assignees are the real record; update the Owner column when you claim.
 | Sun Nov 8 | First drafts of every task in your own notebook copy; comment on each issue with a short summary |
 | Tue Nov 10 | Review each other's drafts |
 | Thu Nov 12 | Self-evaluation form, export zip and team report in your folder |
-| Fri Nov 13, 11:59 PM ET | Assignment 1 due; Mehul sends the AS01 email |
+| Sun Nov 15, 11:59 PM ET | Assignment 1 due; Mehul sends the AS01 email |
 
 ## Rules from Canvas (read Nov 5)
 

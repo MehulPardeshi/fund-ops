@@ -24,7 +24,7 @@ Everything a teammate (or their AI assistant) needs to understand the assignment
 | Integration | LTI 1.3 and REST APIs with Canvas and Blackboard |
 | Compliance | FERPA, GDPR for international students, university data sovereignty |
 
-## Deliverables for Assignment 1 (due Fri Nov 13, 11:59 PM ET)
+## Deliverables for Assignment 1 (due Sun Nov 15, 11:59 PM ET)
 
 | # | Deliverable | Who | Where |
 |---|---|---|---|

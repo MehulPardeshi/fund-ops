@@ -25,6 +25,9 @@ Update the Answer column and post the answer in the Google Chat when the profess
 
 ## Course announcements to know
 
+- Nov 6: "Assignment 1 Deadline Change: Nov 15 at 11:59pm" on Canvas. The professor moved the deadline from Nov 13 to Sun Nov 15, 11:59 PM ET.
+- Nov 6: Lab 2 instructions posted on Canvas (separate from Assignment 1).
+
 - Nov 6: "OAI Model List: LLMs usable in our class" on Canvas (PDF in the company course materials; summary in docs/PROJECT_GUIDE.md). Only open-source LLMs approved by CMU IT may be used; files come from the professor (models marked available now) or her downloader script, following the CMU Contracts Office rules for HuggingFace. Relevant to D1, D2, E3 and the model index spreadsheet.
 
 ## Meetings

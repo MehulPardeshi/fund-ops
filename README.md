@@ -21,7 +21,7 @@ This repo is the **management layer only**. The real work and the submissions li
 
 | Date | Item |
 |---|---|
-| Fri Nov 13, 11:59 PM ET | Assignment 1 (30 pts) |
+| Sun Nov 15, 11:59 PM ET | Assignment 1 (30 pts) |
 | Fri Nov 27 | Assignment 2 |
 | Tue Dec 1 | In-class pitch and investor feedback |
 | Thu Dec 3 | Merger/acquisition decision and peer review |

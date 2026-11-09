@@ -51,7 +51,7 @@ For each issue in their block, open the issue and walk them through its checklis
 ## 6. Keep the tracker current
 
 - Comment on the issue when they start, when they are stuck, and when a draft is done. Close it once `status()` shows the task saved.
-- Draft deadline Sun Nov 8, team review Tue Nov 10, due Fri Nov 13 11:59 PM ET.
+- Draft deadline Sun Nov 8, team review Tue Nov 10, due Sun Nov 15 11:59 PM ET.
 - Overall progress: `python3 scripts/status.py`.
 
 ## Repo map
