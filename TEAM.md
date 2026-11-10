@@ -9,7 +9,7 @@ Pick a free block yourself: ask your AI assistant to open this repo (it follows 
 | Block | Tasks | Issues | Owner |
 |---|---|---|---|
 | A | A1–A4 (done, saved Nov 5), plus Division of Labor table, questions to the teaching team, final AS01 email | #1–#4, #23, #26, #27 | Mehul |
-| B | B1–B4, E4 | #5–#8, #21 | Parth (reported done Nov 9; waiting for confirmation on the issues) |
+| B | B1–B4, E4 | #5–#8, #21 | Parth (done Nov 9; answers in the team report) |
 | C | C1–C5, E2 | #9–#13, #19 | Harsh (@Harsh-Sahay009; C1–C3 saved in Colab; C4, C5 and E2 remaining) |
 | D | D1–D4, E1, E3 | #14–#18, #20 | Kira (picked Nov 9) |
 | sheet | `model_index_company_b1` spreadsheet | #24 | Mehul (done Nov 9) |
