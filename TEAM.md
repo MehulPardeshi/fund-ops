@@ -9,11 +9,11 @@ Pick a free block yourself: ask your AI assistant to open this repo (it follows 
 | Block | Tasks | Issues | Owner |
 |---|---|---|---|
 | A | A1–A4 (done, saved Nov 5), plus Division of Labor table, questions to the teaching team, final AS01 email | #1–#4, #23, #26, #27 | Mehul |
-| B | B1–B4, E4 | #5–#8, #21 | Parth (done Nov 9; answers in the team report) |
-| C | C1–C5, E2 | #9–#13, #19 | Harsh (@Harsh-Sahay009; C1–C5 and E2 saved in Colab; peer review pending) |
-| D | D1–D4, E1, E3 | #14–#18, #20 | Kira (picked Nov 9) |
-| sheet | `model_index_company_b1` spreadsheet | #24 | Mehul (done Nov 9) |
-| everyone | Self-evaluation form (blog post), own notebook export zip, team report in own folder | #22, #25 | each person |
+| B | B1–B4, E4 | #5–#8, #21 | Parth (done; B3 and B4 revised to revision 2 on Nov 11; in the team report) |
+| C | C1–C5, E2 | #9–#13, #19 | Harsh (done Nov 11: C1–C5 and E2 saved; send `show_responses()` output to Mehul for the team report) |
+| D | D1–D4, E1, E3 | #14–#18, #20 | Kira (picked Nov 9; in progress, answers due Fri Nov 13) |
+| sheet | `model_index_company_b1` spreadsheet | #24 | Mehul (done Nov 9; author and team names added Nov 11; uploaded to Mehul's folder) |
+| everyone | Self-evaluation form (blog post), own notebook export zip, team report in own folder | #22, #25 | everyone (assigned to all four on Nov 11) |
 
 The issue assignees are the real record; update the Owner column when you claim.
 
@@ -51,6 +51,8 @@ The issue assignees are the real record; update the Owner column when you claim.
 | Nov 5 | A1: LTI 1.3 tool inside the LMS; instructor approves every AI-drafted message; if the AI is down at a deadline, accept and queue | Human in the loop, students never harmed by an outage |
 | Nov 5 (meeting) | Plan A (each person does their block); design for 3 s latency; open-weights models from the professor's approved list on university-contracted servers; D lead names the models; retention until end of term plus appeal window | See [meetings/2026-11-05.md](meetings/2026-11-05.md) |
 | Nov 9 | Division of Labor table posted in the company Google Chat. Harsh: C1–C5 and E2. Answers due to Mehul Fri Nov 13 | Required deliverable; E2 belongs to block C |
+| Nov 11 | Shared tasks #22 (self-evaluation) and #25 (export and upload) assigned to all four; each person comments "submitted" / "uploaded" | Every member must do them |
+| Nov 11 | Updates go in the company Google Chat, not by email | The chat is graded |
 | Nov 6 | Contributor type is Collaborative (divide and conquer). Each person uploads a comprehensive team report with a who-did-what table to their own folder, plus their own notebook export. Mehul compiles the team report | Professor's reply, see [docs/COMMS.md](docs/COMMS.md) |
 
 ## Meetings
