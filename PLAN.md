@@ -10,7 +10,7 @@ Team hard deadline **Sat Nov 14, 11:59 PM ET**; official deadline Sun Nov 15, 11
 | 2 | Division of Labor table in the company Google Chat (contributor type: Collaborative) | Mehul | posted Nov 9 |
 | 3 | Notebook tasks A1 to E4 | block owners, see [TEAM.md](TEAM.md) | A done (Mehul); B done (Parth, B3/B4 revised Nov 11); C done (Harsh, Nov 11); D in progress (Kira) |
 | 4 | `model_index_company_b1` spreadsheet | Mehul | done Nov 9 (completed copy, since the shared sheet is view only); in Mehul's folder Nov 11 |
-| 5 | Notebook export zip in own folder | each person | Mehul exported, uploads on Nov 14 |
+| 5 | Notebook export zip in own folder | each person | Mehul: zip and spreadsheet uploaded Nov 11; team report on Nov 14 |
 | 6 | Team report (all modules plus who-did-what table) in every folder | Mehul compiles | A, B and E4 in; C and E2 waiting for Harsh's `show_responses()`; D, E1, E3 pending |
 | 7 | Email `OAI - B2 - 2 - AS01 Complete` | Mehul | last step |
 
