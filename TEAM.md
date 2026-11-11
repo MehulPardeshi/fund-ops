@@ -10,18 +10,19 @@ Pick a free block yourself: ask your AI assistant to open this repo (it follows 
 |---|---|---|---|
 | A | A1–A4 (done, saved Nov 5), plus Division of Labor table, questions to the teaching team, final AS01 email | #1–#4, #23, #26, #27 | Mehul |
 | B | B1–B4, E4 | #5–#8, #21 | Parth (done Nov 9; answers in the team report) |
-| C | C1–C5, E2 | #9–#13, #19 | Harsh (@Harsh-Sahay009; C1–C3 saved in Colab; C4, C5 and E2 remaining) |
+| C | C1–C5, E2 | #9–#13, #19 | Harsh (@Harsh-Sahay009; C1–C5 and E2 saved in Colab; peer review pending) |
 | D | D1–D4, E1, E3 | #14–#18, #20 | Kira (picked Nov 9) |
 | sheet | `model_index_company_b1` spreadsheet | #24 | Mehul (done Nov 9) |
 | everyone | Self-evaluation form (blog post), own notebook export zip, team report in own folder | #22, #25 | each person |
 
 The issue assignees are the real record; update the Owner column when you claim.
 
-## Block C progress — Nov 10
+## Block C progress — Nov 11
 
-- C1, C2 and C3: responses saved (revision 1) and read back in Colab; validation completed. C1 has no dedicated check cell; C2 and C3 checks passed.
-- Teammate review is pending. Saved-task issues are closed per the tracker workflow; this does not mean peer review or final submission is complete.
-- Remaining: C4 (#12), C5 (#13), E2 (#19), peer review, final export and report handoff.
+- C1–C5 and E2: all six responses saved at revision 1 and read back from the Colab database.
+- C2, C3, C5 and E2 checks passed. C1 and C4 have no dedicated supplied check cells; additional validation completed.
+- Private export created and verified against its manifest, table checksums, team number and six saved responses. Private report handoff prepared.
+- Saved-task issues are closed per the tracker workflow. Teammate review, team report integration and final individual uploads remain pending.
 - Notebook, answers, data and evidence remain outside this public repository.
 
 ## Dates
