@@ -2,7 +2,11 @@
 
 The single place to see who owns what, by when, and what was decided. If it is not here or in an issue, it was not agreed.
 
-## Blocks (Assignment 1)
+## Assignment 2 (due Fri Nov 27)
+
+Instructions are not posted yet; they will come through the company Drive and Google Chat. Once they arrive, Mehul splits the work into blocks here and opens one issue per task under the **Assignment 2** milestone, and everyone claims a block the same way as before (issue #29). Before then, everyone logs in to the course server once and changes the temporary password (issue #30, [docs/VM.md](docs/VM.md)).
+
+## Blocks (Assignment 1, submitted Nov 15)
 
 Pick a free block yourself: ask your AI assistant to open this repo (it follows [AGENTS.md](AGENTS.md)), or run `python3 scripts/blocks.py`. Claims are logged on issue #28.
 
@@ -17,15 +21,8 @@ Pick a free block yourself: ask your AI assistant to open this repo (it follows 
 
 The issue assignees are the real record; update the Owner column when you claim.
 
-## Block C progress — Nov 11
 
-- C1–C5 and E2: all six responses saved at revision 1 and read back from the Colab database.
-- C2, C3, C5 and E2 checks passed. C1 and C4 have no dedicated supplied check cells; additional validation completed.
-- Private export created and verified against its manifest, table checksums, team number and six saved responses. Private report handoff prepared.
-- Saved-task issues are closed per the tracker workflow. Teammate review, team report integration and final individual uploads remain pending.
-- Notebook, answers, data and evidence remain outside this public repository.
-
-## Dates
+## Dates (Assignment 1)
 
 | Date | What |
 |---|---|

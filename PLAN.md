@@ -1,4 +1,10 @@
-# Assignment 1 plan
+# Plan
+
+## Next: Assignment 2
+
+Due **Fri Nov 27, 11:59 PM ET**. Instructions are not posted yet. Tracking: milestone *Assignment 2*, issues #29 (split the work) and #30 (course server login). Later milestones: pitch Tue Dec 1, merger or acquisition decision Thu Dec 3, final project Fri Dec 4.
+
+## Assignment 1 (submitted)
 
 Team hard deadline **Sat Nov 14, 11:59 PM ET**; official deadline Sun Nov 15, 11:59 PM ET (moved from Nov 13 on Nov 6).
 
@@ -6,12 +12,12 @@ Team hard deadline **Sat Nov 14, 11:59 PM ET**; official deadline Sun Nov 15, 11
 
 | # | Deliverable | Who | Status |
 |---|---|---|---|
-| 1 | Self-evaluation (blog post and Google Form) | each person | Mehul done |
+| 1 | Self-evaluation (blog post and Google Form) | each person | Mehul and Parth confirmed on #22 |
 | 2 | Division of Labor table in the company Google Chat (contributor type: Collaborative) | Mehul | posted Nov 9 |
 | 3 | Notebook tasks A1 to E4 | block owners, see [TEAM.md](TEAM.md) | A done (Mehul); B done (Parth, B3/B4 revised Nov 11); C done (Harsh, Nov 11); D, E1, E3 done (Kira, Nov 14) |
 | 4 | `model_index_company_b1` spreadsheet | Mehul | done Nov 9 (completed copy, since the shared sheet is view only); in Mehul's folder Nov 11 |
-| 5 | Notebook export zip in own folder | each person | Mehul: zip and spreadsheet uploaded Nov 11; team report on Nov 14 |
-| 6 | Team report (all modules plus who-did-what table) in every folder | Mehul compiles | All modules in (D, E1, E3 added Nov 14); final upload Nov 14 |
+| 5 | Notebook export zip in own folder | each person | Mehul and Parth confirmed on #25 (zip, report, spreadsheet) |
+| 6 | Team report (all modules plus who-did-what table) in every folder | Mehul compiles | Final, all 17 tasks; shared Nov 14 |
 | 7 | Email `OAI - B2 - 2 - AS01 Complete` | Mehul | last step |
 
 How to do 3, 5 and 6: [docs/SUBMIT.md](docs/SUBMIT.md).

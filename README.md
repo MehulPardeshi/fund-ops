@@ -25,6 +25,7 @@ This repo is the **management layer only**. The work and the submissions live in
 | [docs/PROJECT_GUIDE.md](docs/PROJECT_GUIDE.md) | The case, targets, grading, notebook how-to, every task in one line, approved models |
 | [docs/SUBMIT.md](docs/SUBMIT.md) | Finish, export, upload, and what to name each file |
 | [docs/COMMS.md](docs/COMMS.md) | Channels, questions to the professor and her answers, announcements |
+| [docs/VM.md](docs/VM.md) | Course server: VPN, login, folders, what it has |
 | [meetings/](meetings/) | Meeting notes |
 | `scripts/blocks.py` | List or claim blocks (needs the `gh` CLI) |
 | `scripts/status.py` | Progress per module and person, stale items, who is commenting |
@@ -42,10 +43,11 @@ This repo is the **management layer only**. The work and the submissions live in
 
 | Date | Item |
 |---|---|
-| Sat Nov 14, 11:59 PM ET | Assignment 1, team hard deadline (official: Sun Nov 15) |
-| Fri Nov 27 | Assignment 2 |
+| Sun Nov 15, 11:59 PM ET | Assignment 1 (submitted; all 17 tasks in the team report) |
+| Fri Nov 27, 11:59 PM ET | Assignment 2 (instructions not posted yet) |
 | Tue Dec 1 | In-class pitch and investor feedback |
 | Thu Dec 3 | Merger or acquisition decision and peer review |
+| Fri Dec 4, 11:59 PM ET | Final project due |
 
 ## How we work
 
