@@ -18,7 +18,7 @@ Team hard deadline **Sat Nov 14, 11:59 PM ET**; official deadline Sun Nov 15, 11
 | 4 | `model_index_company_b1` spreadsheet | Mehul | done Nov 9 (completed copy, since the shared sheet is view only); in Mehul's folder Nov 11 |
 | 5 | Notebook export zip in own folder | each person | Mehul and Parth confirmed on #25 (zip, report, spreadsheet) |
 | 6 | Team report (all modules plus who-did-what table) in every folder | Mehul compiles | Final, all 17 tasks; shared Nov 14 |
-| 7 | Email `OAI - B2 - 2 - AS01 Complete` | Mehul | last step |
+| 7 | Email `OAI - B2 - 2 - AS01 Complete` | Mehul | sent Nov 15 |
 
 How to do 3, 5 and 6: [docs/SUBMIT.md](docs/SUBMIT.md).
 
