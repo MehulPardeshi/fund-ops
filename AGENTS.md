@@ -1,69 +1,78 @@
 # Instructions for AI assistants working in this repo
 
-This repo tracks Assignment 1 for Company B1 (Final Project Team 2) in 94-879 *Fundamentals of Operationalizing AI*. Each teammate works with their own assistant (Claude, ChatGPT, Codex or similar). Follow these steps whenever a teammate opens this repo with you.
+This repo is the tracker for Company B1 (Final Project Team 2) in 94-879 *Fundamentals of Operationalizing AI*. Each teammate works with their own assistant (Claude, ChatGPT, Codex or similar). Follow these steps whenever a teammate opens this repo with you.
 
 ## 0. Read first
 
-Read [docs/PROJECT_GUIDE.md](docs/PROJECT_GUIDE.md) (the case, targets, deliverables, grading, notebook mechanics and a one-line summary of every task) and [docs/COMMS.md](docs/COMMS.md) (questions to the professor and her answers) before advising anyone.
+1. The **"Now" section at the top of [TEAM.md](TEAM.md)**: the current phase, what is open and the next dates. Mehul keeps it current.
+2. [PLAN.md](PLAN.md): deliverables and their status.
+3. [docs/COMMS.md](docs/COMMS.md): questions to the professor and her answers.
+4. [docs/PROJECT_GUIDE.md](docs/PROJECT_GUIDE.md): the case, grading, and how the Assignment 1 notebook worked.
+
+GitHub issues are the real record. If TEAM.md and the issues disagree, trust the issues and tell the teammate.
 
 ## 1. Find out who you are working with
 
-- If you can run commands: `gh api user --jq .login` gives their GitHub username.
-- Otherwise ask them for their GitHub username.
+- With a shell: `gh api user --jq .login`.
+- Otherwise, ask for their GitHub username.
 
-Team: MehulPardeshi (project manager), Harsh-Sahay009, ParthD25, khsaydullaeva.
+Team: MehulPardeshi (project manager), Harsh-Sahay009, ParthD25, khsaydullaeva (Kira).
 
-## 2. Show them what is free
+## 2. Give them a status report
 
-- With a shell: run `python3 scripts/blocks.py`. It lists every block, who claimed it, and its issues.
-- Without a shell: read the "Blocks" table in [TEAM.md](TEAM.md) and the open issues at https://github.com/MehulPardeshi/fund-ops/issues (a block is claimed when its issues have an assignee).
+When a teammate asks what is done, what is left or what is theirs (or just opens the repo), get the facts and then answer:
 
-If they already own a block, skip to step 4. Otherwise list the FREE blocks with one line each on what the work involves, and let them choose. Do not choose for them.
+- **With a shell:** run `git pull`, then `python3 scripts/status.py --me` for their own open work and `python3 scripts/status.py` for the whole team.
+- **Without a shell:** read the "Now" section of TEAM.md and the open issues at https://github.com/MehulPardeshi/fund-ops/issues. An issue is theirs if they are an assignee. On an issue assigned to several people, a person has finished their part once they have commented "done", "submitted" or "uploaded".
 
-## 3. Claim the block they pick
+Answer in simple language, in this order:
 
-- With a shell: `python3 scripts/blocks.py claim <block>` (B, C, D or sheet). It assigns the block's issues to them and logs the claim on issue #28.
-- Without a shell: tell them to comment on issue #28 ("I take block X") and ask Mehul to assign them.
+1. **Done:** one or two lines on finished work (closed milestones).
+2. **Still to do for the team:** open items and who owns each.
+3. **Assigned to you:** each open issue with its link and the very next step. If there is none, say so.
+4. **Next deadlines:** the next two or three dates.
+5. **Waiting on:** anything blocked, such as instructions not posted yet.
+
+Do not make up tasks or dates that are not in the repo or the issues.
+
+## 3. When the current assignment has blocks to claim
+
+Once Mehul has split an assignment into blocks (TEAM.md lists them, with one issue per task under that assignment's milestone):
+
+- List the FREE blocks with one line each on the work, and let the teammate choose. Do not choose for them.
+- Claim: with a shell, assign them to every issue in the block (`gh issue edit <n> --add-assignee @me`) and comment on the assignment's planning issue (#29 for Assignment 2). Without a shell, tell them to comment "I take block X" on that issue.
 - Remind them to say it in the company Google Chat too; that chat is graded.
+- Then walk them through each issue's checklist.
 
-## 4. Tell them their work
+`scripts/blocks.py` was built for Assignment 1 and lists only those blocks.
 
-For each issue in their block, open the issue and walk them through its checklist. Then give them this setup, in order:
+## 4. Rules you must keep
 
-1. Use their **Andrew** Google account for everything.
-2. In the company Drive folder `company_b_1`, open the notebook in Colab and use **File > Save a copy in Drive**. Work only in their own copy.
-3. Model: open the professor's Gemma folder (https://drive.google.com/drive/folders/1CeRy7kYWw3zTxOFXMIq6gOtl4NNL-Cwx), use the folder menu > Organise > Add shortcut > My Drive, and in the model cell set `MODEL_CHECKPOINT_DIR = "/content/drive/MyDrive/gemma-3-270m-it"`.
-4. Run the setup cells in order: imports, mount Drive (approve the pop-up quickly or it times out), team number cell (`FINAL_PROJECT_TEAM_NUMBER = 2`), assignment tools, database and git, the model cell, then the "Hints and references" cell of their module.
-5. For each task: run the flawed example, look for what is wrong, use `reading('<task>')` for references, fill in the TODO cells, run the check cell, then `record(...)` and `submit_response(...)`.
-6. At the end, follow [docs/SUBMIT.md](docs/SUBMIT.md): paste `status()` on issue #28, send Mehul the `show_responses()` output for the team report, export with `retrieve_homework_data(upload_dir=..., download=False)` (or `scripts/export_local.py` if Colab is down), and upload the zip and the team report to their own folder.
-
-## 5. Rules you must keep
-
-- **Splitting work:** the professor confirmed (Nov 6) that a collaborative team may divide the modules. Each person writes their own block in their own words; do not copy a teammate's text. Everyone uploads their own notebook export and the team report (with the who-did-what table) to their own folder.
-- **Models:** use gemma-3-270m-it or any model on the professor's approved list (see docs/PROJECT_GUIDE.md).
+- **Splitting work:** the professor confirmed (Nov 6) that a collaborative team may divide the work. Each person writes their own part in their own words; do not copy a teammate's text.
+- **Reasoning:** the professor allows GenAI as long as the reasoning is the student's own. Ask for their decisions before drafting, and have them review and rewrite in their own words. If anyone asks whether AI was used, answer truthfully.
+- **Models:** use only models on the professor's approved list (see docs/PROJECT_GUIDE.md).
 - **No collaboration outside the team.**
-- **No names, emails or student IDs** in the notebook. Team number 2 is the only identifier.
+- **No names, emails or student IDs** in notebooks or submissions. Team number 2 is the only identifier.
 - **Sources:** cite only what the teammate actually read, with the date.
-- **Reasoning:** the professor allows GenAI use as long as the reasoning is the student's own. Ask them for their decisions before drafting, and have them review and rewrite in their own words.
-- Do not commit the notebook, course PDFs, the model folder, data exports or meeting recordings (see `.gitignore`; the repo is public).
-- Work only on the teammate's own block. Do not edit other people's issues.
+- **Never commit** notebooks, course PDFs, model files, data exports, passwords or meeting recordings (see `.gitignore`). The repo is public.
+- Work only on the teammate's own issues. Do not edit other people's issues.
 
-## 6. Keep the tracker current
+## 5. Keep the tracker current
 
-- Comment on the issue when they start, when they are stuck, and when a draft is done. Close it once `status()` shows the task saved.
-- Dates are in [TEAM.md](TEAM.md): blocks finished and answers sent to Mehul by Fri Nov 13, uploads by the team hard deadline Sat Nov 14 (official deadline Sun Nov 15).
-- Overall progress: `python3 scripts/status.py`.
+- Comment on an issue when the teammate starts, gets stuck or finishes. On shared issues they comment "done". Close an issue when the work is saved or submitted.
+- Post decisions and blockers in the company Google Chat too.
 
 ## Repo map
 
 | File | What |
 |---|---|
-| [docs/PROJECT_GUIDE.md](docs/PROJECT_GUIDE.md) | Case summary, targets, deliverables, grading, notebook how-to, every task in one line |
-| [docs/SUBMIT.md](docs/SUBMIT.md) | Finish, export, upload, file names |
+| [TEAM.md](TEAM.md) | **Now** (current phase and open items), past blocks, dates, decisions |
+| [PLAN.md](PLAN.md) | Deliverables and their status |
+| [docs/VM.md](docs/VM.md) | Course server: VPN, login, folders |
+| [docs/PROJECT_GUIDE.md](docs/PROJECT_GUIDE.md) | Case summary, grading, Assignment 1 notebook how-to |
+| [docs/SUBMIT.md](docs/SUBMIT.md) | Assignment 1 export, upload and file names |
 | [docs/COMMS.md](docs/COMMS.md) | Channels, questions to the professor and answers |
-| [TEAM.md](TEAM.md) | Blocks, owners, dates, decisions |
-| [PLAN.md](PLAN.md) | Deliverables, task list, open questions for the professor |
 | [meetings/](meetings/) | Meeting notes |
-| `scripts/blocks.py` | List or claim blocks |
-| `scripts/status.py` | Progress per module and person |
-| `scripts/export_local.py` | Export zip on your computer if Colab is down |
+| `scripts/status.py` | Done, left and yours (`--me`) |
+| `scripts/blocks.py` | Assignment 1 blocks (record) |
+| `scripts/export_local.py` | Assignment 1 export if Colab is down |

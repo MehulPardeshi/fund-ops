@@ -12,9 +12,9 @@ This repo is the **management layer only**. The work and the submissions live in
 
 ## Start here
 
-1. **Using Claude, ChatGPT or Codex?** Open this repo with it. It follows [AGENTS.md](AGENTS.md): it shows the free blocks, claims one for you and walks you through your tasks.
-2. **No AI?** Read [docs/PROJECT_GUIDE.md](docs/PROJECT_GUIDE.md), then run `python3 scripts/blocks.py`.
-3. **Finishing up?** Follow [docs/SUBMIT.md](docs/SUBMIT.md).
+1. **Using Claude, ChatGPT or Codex?** Give it this repo link and ask what is done, what is left and what is yours. It follows [AGENTS.md](AGENTS.md).
+2. **No AI?** Read the "Now" section at the top of [TEAM.md](TEAM.md), or run `python3 scripts/status.py --me` (needs the `gh` CLI).
+3. **Course server:** [docs/VM.md](docs/VM.md).
 
 ## Files
 
@@ -27,8 +27,8 @@ This repo is the **management layer only**. The work and the submissions live in
 | [docs/COMMS.md](docs/COMMS.md) | Channels, questions to the professor and her answers, announcements |
 | [docs/VM.md](docs/VM.md) | Course server: VPN, login, folders, what it has |
 | [meetings/](meetings/) | Meeting notes |
-| `scripts/blocks.py` | List or claim blocks (needs the `gh` CLI) |
-| `scripts/status.py` | Progress per module and person, stale items, who is commenting |
+| `scripts/status.py` | Done, left and yours: `python3 scripts/status.py --me` (needs the `gh` CLI) |
+| `scripts/blocks.py` | Assignment 1 blocks (record) |
 | `scripts/export_local.py` | Build the export zip on your computer if Colab is down |
 
 ## Rules

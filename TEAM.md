@@ -2,13 +2,27 @@
 
 The single place to see who owns what, by when, and what was decided. If it is not here or in an issue, it was not agreed.
 
-## Assignment 2 (due Fri Nov 27)
+## Now (updated Nov 17)
 
-Instructions are not posted yet; they will come through the company Drive and Google Chat. Once they arrive, Mehul splits the work into blocks here and opens one issue per task under the **Assignment 2** milestone, and everyone claims a block the same way as before (issue #29). Before then, everyone logs in to the course server once and changes the temporary password (issue #30, [docs/VM.md](docs/VM.md)).
+**Assignment 1 is done.** All 17 tasks, the team report, the spreadsheet, every self-evaluation and every upload are in, and the AS01 email was sent on Nov 15.
+
+**Next: Assignment 2, due Fri Nov 27, 11:59 PM ET.** The instructions are not posted yet (checked Canvas and `company_b_1` on Nov 17). When they arrive, Mehul splits the work into blocks here and opens one issue per task under the *Assignment 2* milestone; then everyone claims a block (#29).
+
+| Who | Open now | Issue |
+|---|---|---|
+| Everyone except Mehul | Log in to the course server once and change the temporary password; comment "done" | #30, [docs/VM.md](docs/VM.md) |
+| Mehul | Split Assignment 2 into blocks once the instructions are out | #29 |
+
+| Date | Milestone |
+|---|---|
+| Fri Nov 27 | Assignment 2 |
+| Tue Dec 1 | Pitch and investor feedback |
+| Thu Dec 3 | Merger or acquisition decision and peer review |
+| Fri Dec 4 | Final project |
 
 ## Blocks (Assignment 1, submitted Nov 15)
 
-Pick a free block yourself: ask your AI assistant to open this repo (it follows [AGENTS.md](AGENTS.md)), or run `python3 scripts/blocks.py`. Claims are logged on issue #28.
+All blocks were finished and every issue is closed. Kept as a record.
 
 | Block | Tasks | Issues | Owner |
 |---|---|---|---|
