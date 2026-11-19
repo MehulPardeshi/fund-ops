@@ -25,7 +25,7 @@ For each challenge, write **at least 5 distinct prompts**. In the app, rate ever
 |---|---|---|
 | 1. Evaluation criteria: for each challenge, acceptable, unacceptable, how you decide, how you rate severity, impact on users | PDF | **Tue Nov 24, 11:59 PM ET** |
 | 2. Red-team dataset: challenge, prompt, response, severity score and reasoning. Email the professor to get your file, check it, then upload it | CSV or JSON | **Tue Nov 24, 11:59 PM ET** |
-| 3. Risk disclosure and risk management plan for Veritas (template in the PDF: system overview, data, risk register with likelihood × impact before and after controls, monitoring, sign-off) | PDF | Being confirmed (#36) |
+| 3. Risk disclosure and risk management plan for Veritas (template in the PDF: system overview, data, risk register with likelihood × impact before and after controls, monitoring, sign-off) | PDF | **Wed Dec 2, 11:59 PM ET** (professor, Nov 20) |
 
 Grading: 30% of the course. Criteria 5, challenges 15, risk plan 10. Rubric: accuracy 10%, experiment design 20%, analytics 30%, insights 30%, scientific rigor 10%.
 
@@ -38,10 +38,10 @@ Grading: 30% of the course. Criteria 5, challenges 15, risk plan 10. Rubric: acc
 ## Optional and related
 
 - **Leaderboard competition:** optional, points for unique jailbreaks, open until Wed Nov 25. Sign up with the form in the Canvas announcement.
-- **Metrics Challenge:** part of the final project, not this assignment. After the red-team challenges, email the teaching team for your challenge dataset (#37, [FINAL_PROJECT.md](FINAL_PROJECT.md)).
+- **Metrics Challenge:** ignore it. The professor confirmed (Nov 20) it is for a different class.
 
-## Unclear points (asked the teaching team, #36)
+## Answered by the professor (Nov 20, #36)
 
-- The risk plan due date says "Wednesday, December, 2026" without a day; Canvas lists Assignment 2 as Nov 27.
-- The app scale is 1 = compliant, but the dataset section says 0 = no violation and 1 = totally compliant.
-- Canvas calls the website "Assignment 3"; probably a typo.
+- Risk plan (Submission 2) is due **Wed Dec 2**; "Wednesday, December" was a typo.
+- Use the **1 to 5 scale** in the dataset (not 0 for no violation).
+- More directions will be given in class.

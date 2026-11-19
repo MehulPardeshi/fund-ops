@@ -40,7 +40,8 @@ Sent by Mehul by email to the professor, cc the TAs.
 
 | Question | Answer |
 |---|---|
-| Is the Metrics Challenge (and challenge dataset) per person or once per team? | pending |
-| Assignment 2 Submission 2 (risk plan) says "Wednesday, December, 2026" with no day, and Canvas lists Assignment 2 as Nov 27. What is the due date? | pending |
-| Severity scale: app uses 1 = compliant to 5 = unacceptable, the dataset section says 0 = no violation and 1 = totally compliant. Which should the dataset use? | pending |
+| Is the Metrics Challenge (and challenge dataset) per person or once per team? | Nov 20: it is for a different class; we do not need to complete it |
+| Assignment 2 Submission 2 (risk plan) says "Wednesday, December, 2026" with no day, and Canvas lists Assignment 2 as Nov 27. What is the due date? | Nov 20: typo; it is **Wed Dec 2** |
+| Severity scale: app uses 1 = compliant to 5 = unacceptable, the dataset section says 0 = no violation and 1 = totally compliant. Which should the dataset use? | Nov 20: use the 1 to 5 scale |
 
+She added (Nov 20) that more directions will be given in class.

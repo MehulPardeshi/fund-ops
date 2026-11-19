@@ -1,6 +1,6 @@
 # Final project (team)
 
-Sources: our case PDF (`AI_Case_Company_B1.pdf`, "Final Project: In-class Presentation and Activities") and the professor's Assignment 2 email (Nov 19). Details beyond these are not posted yet; this page is updated when they are.
+Sources: our case PDF (`AI_Case_Company_B1.pdf`, "Final Project: In-class Presentation and Activities") and the professor's emails (Nov 19 and 20; the Metrics Challenge in the Nov 19 email is for a different class, so we skip it). Details beyond these are not posted yet; this page is updated when they are.
 
 ## What we hand in and when
 
@@ -13,7 +13,6 @@ Sources: our case PDF (`AI_Case_Company_B1.pdf`, "Final Project: In-class Presen
 | Merger or acquisition decision | Merge with, acquire, or stay independent from the other company working on the same problem. One slide and a 1 minute presentation | Team | In class, **Thu Dec 3** |
 | Decision form | Merger and acquisition Google Form response | Team | Thu Dec 3 |
 | Peer review | Agree or disagree with each other company's decision, in a Google Form | Each person | In class, Thu Dec 3 |
-| Metrics Challenge | "The first part or requirement of the final project." Uses the Metrics Challenge code from the professor's email. After finishing the AI Red Team challenges (Assignment 2), email the teaching team to receive the challenge dataset, which is needed for the final project submission | To be confirmed (asked the professor whether it is per person or per team) | Not posted |
 
 Grades come from the substance of our Assignment 1 and 2 work, the presentation and participation. Being open about our product's limitations and risks counts. Asking for more money does not earn a better grade, and you must not offer other teams less funding than you think they deserve.
 

@@ -5,8 +5,7 @@
 | # | Deliverable | Who | Due | Status |
 |---|---|---|---|---|
 | 1 | Assignment 2 Submission 1: evaluation criteria PDF and red-team dataset | each person (individual) | Tue Nov 24 | in progress (#41) |
-| 2 | Assignment 2 Submission 2: risk disclosure and management plan PDF | each person (individual) | to be confirmed (#36) | not started |
-| 3 | Metrics Challenge and challenge dataset | each person until confirmed (#36) | before the final project | not started (#37) |
+| 2 | Assignment 2 Submission 2: risk disclosure and management plan PDF | each person (individual) | Wed Dec 2 | not started |
 | 4 | Funding pitch slide deck and pre-recorded video | team, four blocks (#34) | Tue Dec 1 | blocks being claimed |
 | 5 | Investor feedback form | each person | Tue Dec 1, in class | (#38) |
 | 6 | Merger or acquisition decision: slide, 1 minute presentation, Google Form | team | Thu Dec 3 | (#39) |

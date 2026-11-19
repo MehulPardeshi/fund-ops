@@ -2,11 +2,11 @@
 
 The single place to see who owns what, by when, and what was decided. If it is not here or in an issue, it was not agreed.
 
-## Now (updated Nov 19)
+## Now (updated Nov 20)
 
 **Two things are running at the same time:**
 
-1. **Assignment 2 is individual.** Everyone does their own red-team work and submits their own files. Submission 1 is due **Tue Nov 24**. Do this first: the final project's challenge dataset comes only after the red-team challenges. Summary: [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md). Track yours on #41.
+1. **Assignment 2 is individual.** Everyone does their own red-team work and submits their own files. Submission 1 is due **Tue Nov 24**. The risk plan (Submission 2) is due **Wed Dec 2**. Summary: [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md). Track yours on #41.
 2. **The final project is a team effort.** The funding pitch (slide deck plus pre-recorded video) is in class **Tue Dec 1**. It is split into four blocks; claim one on #34. Details: [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md).
 
 ### Pitch blocks (claim on #34)
@@ -25,12 +25,10 @@ Each block: 1 to 2 slides by Sat Nov 28 and a 30 to 45 second video part by Sun 
 | What | Issue |
 |---|---|
 | Your own Assignment 2 (Submission 1 due Tue Nov 24) | #41 |
-| Metrics Challenge and challenge dataset (after your red-team challenges) | #37 |
 | Course server: change the temporary password (Harsh, Parth, Kira) | #30 |
 | Investor feedback form, in class Tue Dec 1 | #38 |
 | Merger or acquisition decision, in class Thu Dec 3 | #39 |
 | Peer review form, in class Thu Dec 3 | #40 |
-| Questions sent to the teaching team (Metrics Challenge per person or team, risk plan date, severity scale) | #36 (Mehul) |
 
 ### Dates
 
@@ -44,7 +42,7 @@ Each block: 1 to 2 slides by Sat Nov 28 and a 30 to 45 second video part by Sun 
 | Tue Dec 1 | Pitch and investor feedback |
 | Thu Dec 3 | Merger or acquisition decision and peer review |
 | Fri Dec 4 | Final project due |
-| To be confirmed | Assignment 2 Submission 2 (risk plan) |
+| Wed Dec 2 | Assignment 2 Submission 2 (risk plan, individual) |
 
 ## Blocks (Assignment 1, submitted Nov 15)
 
@@ -91,7 +89,7 @@ The issue assignees are the real record; update the Owner column when you claim.
 | Nov 11 | Shared tasks #22 (self-evaluation) and #25 (export and upload) assigned to all four; each person comments "submitted" / "uploaded" | Every member must do them |
 | Nov 11 | Updates go in the company Google Chat, not by email | The chat is graded |
 | Nov 19 | Assignment 2 is individual, so no blocks; the final project pitch is split into four blocks (product, market, tech, risk) that teammates claim; Mehul takes product and assembles the deck and video; everyone records their own part of the video; slides due Sat Nov 28 | Canvas says Assignment 2 is individual; the pitch is team work |
-| Nov 19 | Ask the teaching team whether the Metrics Challenge is per person or per team; until then each person does their own | Codes and logins are personal |
+| Nov 20 | Professor: Metrics Challenge is for a different class (skip it); risk plan due Wed Dec 2; use the 1 to 5 scale | Her reply to our questions (#36) |
 | Nov 6 | Contributor type is Collaborative (divide and conquer). Each person uploads a comprehensive team report with a who-did-what table to their own folder, plus their own notebook export. Mehul compiles the team report | Professor's reply, see [docs/COMMS.md](docs/COMMS.md) |
 
 ## Meetings

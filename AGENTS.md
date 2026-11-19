@@ -70,7 +70,7 @@ Right now the **final project pitch** has four blocks (product, market, tech, ri
 | [PLAN.md](PLAN.md) | Deliverables and their status |
 | [docs/VM.md](docs/VM.md) | Course server: VPN, login, folders |
 | [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md) | Assignment 2 (individual) explained |
-| [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md) | Final project blocks, dates, Metrics Challenge |
+| [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md) | Final project blocks and dates |
 | [docs/PROJECT_GUIDE.md](docs/PROJECT_GUIDE.md) | Case summary, grading, Assignment 1 notebook how-to |
 | [docs/SUBMIT.md](docs/SUBMIT.md) | Assignment 1 export, upload and file names |
 | [docs/COMMS.md](docs/COMMS.md) | Channels, questions to the professor and answers |

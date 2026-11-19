@@ -27,7 +27,7 @@ This repo is the **management layer only**. The work and the submissions live in
 | [docs/COMMS.md](docs/COMMS.md) | Channels, questions to the professor and her answers, announcements |
 | [docs/VM.md](docs/VM.md) | Course server: VPN, login, folders, what it has |
 | [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md) | Assignment 2 (individual red teaming) in plain language |
-| [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md) | Final project: pitch blocks, dates, Metrics Challenge |
+| [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md) | Final project: pitch blocks and dates |
 | [meetings/](meetings/) | Meeting notes |
 | `scripts/status.py` | Done, left and yours: `python3 scripts/status.py --me` (needs the `gh` CLI) |
 | `scripts/blocks.py` | Assignment 1 blocks (record) |
