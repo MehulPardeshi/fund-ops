@@ -1,8 +1,19 @@
 # Plan
 
-## Next: Assignment 2
+## Now
 
-Due **Fri Nov 27, 11:59 PM ET**. Instructions are not posted yet. Tracking: milestone *Assignment 2*, issues #29 (split the work) and #30 (course server login). Later milestones: pitch Tue Dec 1, merger or acquisition decision Thu Dec 3, final project Fri Dec 4.
+| # | Deliverable | Who | Due | Status |
+|---|---|---|---|---|
+| 1 | Assignment 2 Submission 1: evaluation criteria PDF and red-team dataset | each person (individual) | Tue Nov 24 | in progress (#41) |
+| 2 | Assignment 2 Submission 2: risk disclosure and management plan PDF | each person (individual) | to be confirmed (#36) | not started |
+| 3 | Metrics Challenge and challenge dataset | each person until confirmed (#36) | before the final project | not started (#37) |
+| 4 | Funding pitch slide deck and pre-recorded video | team, four blocks (#34) | Tue Dec 1 | blocks being claimed |
+| 5 | Investor feedback form | each person | Tue Dec 1, in class | (#38) |
+| 6 | Merger or acquisition decision: slide, 1 minute presentation, Google Form | team | Thu Dec 3 | (#39) |
+| 7 | Peer review form | each person | Thu Dec 3, in class | (#40) |
+| 8 | Final project submission | team | Fri Dec 4 | requirements not posted |
+
+Details: [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md) and [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md).
 
 ## Assignment 1 (submitted)
 

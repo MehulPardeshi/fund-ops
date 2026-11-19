@@ -33,3 +33,14 @@ Update the Answer column and post the answer in the Google Chat when the profess
 ## Meetings
 
 Notes are in [`meetings/`](../meetings/).
+
+## Nov 19: questions on Assignment 2 and the final project (#36)
+
+Sent by Mehul by email to the professor, cc the TAs.
+
+| Question | Answer |
+|---|---|
+| Is the Metrics Challenge (and challenge dataset) per person or once per team? | pending |
+| Assignment 2 Submission 2 (risk plan) says "Wednesday, December, 2026" with no day, and Canvas lists Assignment 2 as Nov 27. What is the due date? | pending |
+| Severity scale: app uses 1 = compliant to 5 = unacceptable, the dataset section says 0 = no violation and 1 = totally compliant. Which should the dataset use? | pending |
+

@@ -10,13 +10,14 @@ import subprocess
 import sys
 
 REPO = "MehulPardeshi/fund-ops"
-LOG_ISSUE = 28
+LOG_ISSUE = 34  # final project: pitch blocks and claims
+# Current blocks: final project funding pitch (Tue Dec 1). Assignment 2 is
+# individual and has no blocks. Assignment 1 used labels block-A ... block-sheet.
 BLOCKS = {
-    "A": "A1-A4: interaction design and UX (Mehul)",
-    "B": "B1-B4 + E4: market, pricing, regulation, security and privacy",
-    "C": "C1-C5 + E2: data profiling, leakage, chunking, datasets, fine-tuning compute, capacity",
-    "D": "D1-D4 + E1 + E3: models, open-weights vs API, evaluation, latency, full stack, tokenizer",
-    "sheet": "model_index_company_b1 spreadsheet (overlaps D1, E2, E3)",
+    "product": "Product, problem, users; assembles the deck and joins the video (Mehul)",
+    "market": "Market, competitors, pricing and unit economics, the funding ask",
+    "tech": "Architecture, models, data, infrastructure, capacity and cost",
+    "risk": "Security, privacy, safety, governance, fairness, limitations",
 }
 
 

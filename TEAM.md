@@ -2,23 +2,49 @@
 
 The single place to see who owns what, by when, and what was decided. If it is not here or in an issue, it was not agreed.
 
-## Now (updated Nov 17)
+## Now (updated Nov 19)
 
-**Assignment 1 is done.** All 17 tasks, the team report, the spreadsheet, every self-evaluation and every upload are in, and the AS01 email was sent on Nov 15.
+**Two things are running at the same time:**
 
-**Next: Assignment 2, due Fri Nov 27, 11:59 PM ET.** The instructions are not posted yet (checked Canvas and `company_b_1` on Nov 17). When they arrive, Mehul splits the work into blocks here and opens one issue per task under the *Assignment 2* milestone; then everyone claims a block (#29).
+1. **Assignment 2 is individual.** Everyone does their own red-team work and submits their own files. Submission 1 is due **Tue Nov 24**. Do this first: the final project's challenge dataset comes only after the red-team challenges. Summary: [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md). Track yours on #41.
+2. **The final project is a team effort.** The funding pitch (slide deck plus pre-recorded video) is in class **Tue Dec 1**. It is split into four blocks; claim one on #34. Details: [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md).
 
-| Who | Open now | Issue |
-|---|---|---|
-| Everyone except Mehul | Log in to the course server once and change the temporary password; comment "done" | #30, [docs/VM.md](docs/VM.md) |
-| Mehul | Split Assignment 2 into blocks once the instructions are out | #29 |
+### Pitch blocks (claim on #34)
 
-| Date | Milestone |
+| Block | Content | Issue | Owner |
+|---|---|---|---|
+| product | Product, problem, users; assembles the deck and joins the video | #35 | Mehul |
+| market | Market, pricing and unit economics, the funding ask | #31 | free |
+| tech | Architecture, models, data, infrastructure, capacity and cost | #32 | free |
+| risk | Security, privacy, safety, governance, limitations | #33 | free |
+
+Each block: 1 to 2 slides by Sat Nov 28 and a 30 to 45 second video part by Sun Nov 29. The issue assignees are the real record.
+
+### Open for everyone
+
+| What | Issue |
 |---|---|
-| Fri Nov 27 | Assignment 2 |
+| Your own Assignment 2 (Submission 1 due Tue Nov 24) | #41 |
+| Metrics Challenge and challenge dataset (after your red-team challenges) | #37 |
+| Course server: change the temporary password (Harsh, Parth, Kira) | #30 |
+| Investor feedback form, in class Tue Dec 1 | #38 |
+| Merger or acquisition decision, in class Thu Dec 3 | #39 |
+| Peer review form, in class Thu Dec 3 | #40 |
+| Questions sent to the teaching team (Metrics Challenge per person or team, risk plan date, severity scale) | #36 (Mehul) |
+
+### Dates
+
+| Date | What |
+|---|---|
+| Tue Nov 24 | Assignment 2 Submission 1 (individual) |
+| Wed Nov 25 | Optional leaderboard competition closes |
+| Sat Nov 28 | Pitch slides in the shared deck |
+| Sun Nov 29 | Video parts recorded |
+| Mon Nov 30 | Deck and video final |
 | Tue Dec 1 | Pitch and investor feedback |
 | Thu Dec 3 | Merger or acquisition decision and peer review |
-| Fri Dec 4 | Final project |
+| Fri Dec 4 | Final project due |
+| To be confirmed | Assignment 2 Submission 2 (risk plan) |
 
 ## Blocks (Assignment 1, submitted Nov 15)
 
@@ -64,6 +90,8 @@ The issue assignees are the real record; update the Owner column when you claim.
 | Nov 9 | Division of Labor table posted in the company Google Chat. Harsh: C1–C5 and E2. Answers due to Mehul Fri Nov 13 | Required deliverable; E2 belongs to block C |
 | Nov 11 | Shared tasks #22 (self-evaluation) and #25 (export and upload) assigned to all four; each person comments "submitted" / "uploaded" | Every member must do them |
 | Nov 11 | Updates go in the company Google Chat, not by email | The chat is graded |
+| Nov 19 | Assignment 2 is individual, so no blocks; the final project pitch is split into four blocks (product, market, tech, risk) that teammates claim; Mehul takes product and assembles the deck and video; everyone records their own part of the video; slides due Sat Nov 28 | Canvas says Assignment 2 is individual; the pitch is team work |
+| Nov 19 | Ask the teaching team whether the Metrics Challenge is per person or per team; until then each person does their own | Codes and logins are personal |
 | Nov 6 | Contributor type is Collaborative (divide and conquer). Each person uploads a comprehensive team report with a who-did-what table to their own folder, plus their own notebook export. Mehul compiles the team report | Professor's reply, see [docs/COMMS.md](docs/COMMS.md) |
 
 ## Meetings

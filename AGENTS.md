@@ -35,16 +35,16 @@ Answer in simple language, in this order:
 
 Do not make up tasks or dates that are not in the repo or the issues.
 
-## 3. When the current assignment has blocks to claim
+## 3. When there are blocks to claim
 
-Once Mehul has split an assignment into blocks (TEAM.md lists them, with one issue per task under that assignment's milestone):
+Right now the **final project pitch** has four blocks (product, market, tech, risk), listed in TEAM.md with one issue each. **Assignment 2 is individual and has no blocks**: every teammate does all of it themselves (issue #41, docs/ASSIGNMENT2.md). When a teammate has no block yet:
 
 - List the FREE blocks with one line each on the work, and let the teammate choose. Do not choose for them.
-- Claim: with a shell, assign them to every issue in the block (`gh issue edit <n> --add-assignee @me`) and comment on the assignment's planning issue (#29 for Assignment 2). Without a shell, tell them to comment "I take block X" on that issue.
+- Claim: with a shell, run `python3 scripts/blocks.py claim <block>` (it assigns the block's issue and logs the claim on #34). Without a shell, tell them to comment "I take block X" on #34.
 - Remind them to say it in the company Google Chat too; that chat is graded.
 - Then walk them through each issue's checklist.
 
-`scripts/blocks.py` was built for Assignment 1 and lists only those blocks.
+- For Assignment 2, help them understand the task, but the prompts, ratings and explanations must be their own; the professor checks prompts for copying.
 
 ## 4. Rules you must keep
 
@@ -69,10 +69,12 @@ Once Mehul has split an assignment into blocks (TEAM.md lists them, with one iss
 | [TEAM.md](TEAM.md) | **Now** (current phase and open items), past blocks, dates, decisions |
 | [PLAN.md](PLAN.md) | Deliverables and their status |
 | [docs/VM.md](docs/VM.md) | Course server: VPN, login, folders |
+| [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md) | Assignment 2 (individual) explained |
+| [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md) | Final project blocks, dates, Metrics Challenge |
 | [docs/PROJECT_GUIDE.md](docs/PROJECT_GUIDE.md) | Case summary, grading, Assignment 1 notebook how-to |
 | [docs/SUBMIT.md](docs/SUBMIT.md) | Assignment 1 export, upload and file names |
 | [docs/COMMS.md](docs/COMMS.md) | Channels, questions to the professor and answers |
 | [meetings/](meetings/) | Meeting notes |
 | `scripts/status.py` | Done, left and yours (`--me`) |
-| `scripts/blocks.py` | Assignment 1 blocks (record) |
+| `scripts/blocks.py` | List or claim the current blocks (final project pitch) |
 | `scripts/export_local.py` | Assignment 1 export if Colab is down |

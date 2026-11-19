@@ -26,6 +26,8 @@ This repo is the **management layer only**. The work and the submissions live in
 | [docs/SUBMIT.md](docs/SUBMIT.md) | Finish, export, upload, and what to name each file |
 | [docs/COMMS.md](docs/COMMS.md) | Channels, questions to the professor and her answers, announcements |
 | [docs/VM.md](docs/VM.md) | Course server: VPN, login, folders, what it has |
+| [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md) | Assignment 2 (individual red teaming) in plain language |
+| [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md) | Final project: pitch blocks, dates, Metrics Challenge |
 | [meetings/](meetings/) | Meeting notes |
 | `scripts/status.py` | Done, left and yours: `python3 scripts/status.py --me` (needs the `gh` CLI) |
 | `scripts/blocks.py` | Assignment 1 blocks (record) |
@@ -44,7 +46,7 @@ This repo is the **management layer only**. The work and the submissions live in
 | Date | Item |
 |---|---|
 | Sun Nov 15, 11:59 PM ET | Assignment 1 (submitted; all 17 tasks in the team report) |
-| Fri Nov 27, 11:59 PM ET | Assignment 2 (instructions not posted yet) |
+| Tue Nov 24, 11:59 PM ET | Assignment 2 Submission 1 (individual) |
 | Tue Dec 1 | In-class pitch and investor feedback |
 | Thu Dec 3 | Merger or acquisition decision and peer review |
 | Fri Dec 4, 11:59 PM ET | Final project due |
