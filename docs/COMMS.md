@@ -45,3 +45,5 @@ Sent by Mehul by email to the professor, cc the TAs.
 | Severity scale: app uses 1 = compliant to 5 = unacceptable, the dataset section says 0 = no violation and 1 = totally compliant. Which should the dataset use? | Nov 20: use the 1 to 5 scale |
 
 She added (Nov 20) that more directions will be given in class.
+
+**Revised Assignment 2 instructions (Canvas, Nov 20):** an FAQ was added at the top. Every person makes an individual Canvas submission. Students may collaborate or strategize, but grading rewards creativity and unique prompts. GenAI may be used for prompt ideas and testing strategies. When done testing, email the professor to request your dataset; you may edit your evaluations to improve quality, but not the prompts or responses. The leaderboard form is optional and testing for it stays open until Wed Nov 25. Due dates are unchanged.

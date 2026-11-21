@@ -2,12 +2,12 @@
 
 The single place to see who owns what, by when, and what was decided. If it is not here or in an issue, it was not agreed.
 
-## Now (updated Nov 20)
+## Now (updated Nov 21)
 
 **Two things are running at the same time:**
 
-1. **Assignment 2 is individual.** Everyone does their own red-team work and submits their own files. Submission 1 is due **Tue Nov 24**. The risk plan (Submission 2) is due **Wed Dec 2**. Summary: [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md). Track yours on #41.
-2. **The final project is a team effort.** The funding pitch (slide deck plus pre-recorded video) is in class **Tue Dec 1**. It is split into four blocks; claim one on #34. Details: [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md).
+1. **Assignment 2 is individual.** Everyone does their own red-team work and submits their own files. The revised instructions (Nov 20) confirm it: "Every person needs to make an individual Canvas submission." You may share strategy, not prompts. When you finish testing, email the professor for your dataset. Submission 1 is due **Tue Nov 24**. The risk plan (Submission 2) is due **Wed Dec 2**. Summary: [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md). Track yours on #41.
+2. **The final project is a team effort.** The funding pitch (slide deck plus pre-recorded video) is in class **Tue Dec 1**. It is split into four blocks; **market, tech and risk are still free: please claim one on #34 by Mon Nov 23**. Details: [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md).
 
 ### Pitch blocks (claim on #34)
 

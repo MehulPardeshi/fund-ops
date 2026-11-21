@@ -1,8 +1,8 @@
 # Assignment 2: AI red teaming (individual)
 
-Sources: the Canvas assignment page and announcement (Nov 19), "OAI - Assignment 2# – AI Red Teaming.pdf" and "OAI Technology Instructions – AI Red Teaming.pdf". The PDFs are on Canvas; do not commit them here.
+Sources: the Canvas assignment page and announcement (Nov 19), "OAI - Assignment 2# – AI Red Teaming.pdf" (revised version sent on Canvas, Nov 20) and "OAI Technology Instructions – AI Red Teaming.pdf". The PDFs are on Canvas; do not commit them here.
 
-**This is an individual submission.** Everyone does all of it with their own login. You may discuss ideas with others, but write your own prompts and explanations: "Do not copy another student or team's prompts. We will check all prompts." Track your progress on issue #41.
+**This is an individual submission.** Everyone does all of it with their own login. The revised instructions (Nov 20) add an FAQ: "Every person needs to make an individual Canvas submission." You may collaborate or strategize with other students, but grading rewards creativity and unique prompts, so write your own prompts, ratings and explanations. You may use GenAI to generate ideas for prompts or testing strategies. Track your progress on issue #41.
 
 ## What you do
 
@@ -24,7 +24,7 @@ For each challenge, write **at least 5 distinct prompts**. In the app, rate ever
 | Item | Format | Due |
 |---|---|---|
 | 1. Evaluation criteria: for each challenge, acceptable, unacceptable, how you decide, how you rate severity, impact on users | PDF | **Tue Nov 24, 11:59 PM ET** |
-| 2. Red-team dataset: challenge, prompt, response, severity score and reasoning. Email the professor to get your file, check it, then upload it | CSV or JSON | **Tue Nov 24, 11:59 PM ET** |
+| 2. Red-team dataset: challenge, prompt, response, severity score and reasoning. When you finish testing, **email the professor to request your dataset**. Review it for completeness and quality; you may edit your evaluations (scores and explanations), but do not change the prompts or responses. Then upload it | CSV or JSON | **Tue Nov 24, 11:59 PM ET** |
 | 3. Risk disclosure and risk management plan for Veritas (template in the PDF: system overview, data, risk register with likelihood × impact before and after controls, monitoring, sign-off) | PDF | **Wed Dec 2, 11:59 PM ET** (professor, Nov 20) |
 
 Grading: 30% of the course. Criteria 5, challenges 15, risk plan 10. Rubric: accuracy 10%, experiment design 20%, analytics 30%, insights 30%, scientific rigor 10%.
@@ -34,6 +34,9 @@ Grading: 30% of the course. Criteria 5, challenges 15, risk plan 10. Rubric: acc
 1. Connect the CMU VPN (Cisco Secure Client, `vpn.cmu.edu`; setup in [VM.md](VM.md)). Without it the site says "Access restricted to CMU network and VPN".
 2. Open `redteamai.heinz.cmu.edu` and log in with the username and password the professor emailed you. Keep them private.
 3. Use the "AI Red Team Competition" tab and submit your rating for every response.
+4. Challenge 1 is called "Jailbreak Attempt" in the app; it is the AI Fraud slot.
+5. If a reply shows "[No response]", refresh the page (or log in again) and run the test again in a fresh conversation.
+6. The app's Export buttons give an incomplete file (chat only, no ratings, only since the last refresh). Email the professor for your dataset instead.
 
 ## Optional and related
 
