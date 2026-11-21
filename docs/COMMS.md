@@ -46,6 +46,8 @@ Sent by Mehul by email to the professor, cc the TAs.
 
 She added (Nov 20) that more directions will be given in class.
 
+**Update (Nov 21):** the Metrics Challenge now appears on our Canvas as *Lab 3: Metrics Dashboard Challenge* (due Tue Nov 24, open until Nov 25; per-person; email the professor and all TAs for the dataset when done). The professor also emailed the access code on Nov 20. Mehul emailed her on Nov 21 because the code shows "not valid".
+
 **Revised Assignment 2 instructions (Canvas, Nov 20):** an FAQ was added at the top. Every person makes an individual Canvas submission. Students may collaborate or strategize, but grading rewards creativity and unique prompts. GenAI may be used for prompt ideas and testing strategies. When done testing, email the professor to request your dataset; you may edit your evaluations to improve quality, but not the prompts or responses. The leaderboard form is optional and testing for it stays open until Wed Nov 25. Due dates are unchanged.
 
 Team decision (Nov 21): even though the FAQ allows strategizing with other students, our team does not share prompts, ratings, explanations or testing strategy for Assignment 2. Each person works alone.

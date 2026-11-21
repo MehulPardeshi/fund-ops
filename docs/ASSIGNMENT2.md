@@ -41,7 +41,7 @@ Grading: 30% of the course. Criteria 5, challenges 15, risk plan 10. Rubric: acc
 ## Optional and related
 
 - **Leaderboard competition:** optional, points for unique jailbreaks, open until Wed Nov 25. Sign up with the form in the Canvas announcement.
-- **Metrics Challenge:** ignore it. The professor confirmed (Nov 20) it is for a different class.
+- **Metrics Challenge:** this is now a separate Canvas item, **Lab 3: Metrics Dashboard Challenge**, not part of Assignment 2. On Nov 20 the professor first said it was for a different class, but it was then posted on our section's Canvas. See the Lab 3 issue and TEAM.md.
 
 ## Answered by the professor (Nov 20, #36)
 
