@@ -29,6 +29,8 @@ Four blocks, one per person. Each block owns its slides (1 to 2) and records its
 
 Claim a block by commenting on the final project planning issue, or ask your AI assistant to claim it for you (it follows [AGENTS.md](../AGENTS.md)).
 
+**The deck:** one shared Google Slides file in the company Drive folder `company_b_1`. Mehul posts the link in the company Google Chat. It already has the slide order and a labelled slot for each block: Title → Problem → Product → How it works (tech) → Market and pricing → Funding ask (market) → Risks and limitations (risk) → Closing. Replace your block's placeholder box with your own content. Keep it short: your part is 30 to 45 seconds. No names, emails or student IDs on slides.
+
 ## Internal dates
 
 | Date | What |
