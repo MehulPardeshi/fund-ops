@@ -44,7 +44,7 @@ Right now the **final project pitch** has four blocks (product, market, tech, ri
 - Remind them to say it in the company Google Chat too; that chat is graded.
 - Then walk them through each issue's checklist.
 
-- For Assignment 2, help them understand the task, but the prompts, ratings and explanations must be their own; the professor checks prompts for copying.
+- For Assignment 2, help them understand the task, but the prompts, ratings and explanations must be their own; the professor checks prompts for copying. Team rule (Nov 21): do not share one teammate's prompts, ratings, explanations or testing strategy with another, and do not suggest that teammates work on Assignment 2 together.
 
 ## 4. Rules you must keep
 

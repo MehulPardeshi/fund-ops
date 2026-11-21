@@ -2,7 +2,7 @@
 
 Sources: the Canvas assignment page and announcement (Nov 19), "OAI - Assignment 2# – AI Red Teaming.pdf" (revised version sent on Canvas, Nov 20) and "OAI Technology Instructions – AI Red Teaming.pdf". The PDFs are on Canvas; do not commit them here.
 
-**This is an individual submission.** Everyone does all of it with their own login. The revised instructions (Nov 20) add an FAQ: "Every person needs to make an individual Canvas submission." You may collaborate or strategize with other students, but grading rewards creativity and unique prompts, so write your own prompts, ratings and explanations. You may use GenAI to generate ideas for prompts or testing strategies. Track your progress on issue #41.
+**This is an individual submission.** Everyone does all of it with their own login. The revised instructions (Nov 20) add an FAQ: "Every person needs to make an individual Canvas submission." Grading rewards creativity and unique prompts. **Our team rule (Nov 21): each of us works alone and we do not share prompts, ratings, explanations or testing strategy with each other.** If something is unclear, ask the professor. The instructions allow GenAI for generating prompt ideas and testing strategies, but the prompts, ratings and explanations you submit must be your own. Track your progress on issue #41.
 
 ## What you do
 
