@@ -1,6 +1,6 @@
 # Final project (team)
 
-Sources: our case PDF (`AI_Case_Company_B1.pdf`, "Final Project: In-class Presentation and Activities") and the professor's emails (Nov 19 and 20; the Metrics Challenge in the Nov 19 email is for a different class, so we skip it). Details beyond these are not posted yet; this page is updated when they are.
+Sources: our case PDF (`AI_Case_Company_B1.pdf`, "Final Project: In-class Presentation and Activities") and the professor's emails (Nov 19 and 20). The Metrics Challenge is a separate individual lab (Lab 3, #42), not part of the final project. Details beyond these are not posted yet; this page is updated when they are.
 
 ## What we hand in and when
 
@@ -22,14 +22,34 @@ Four blocks, one per person. Each block owns its slides (1 to 2) and records its
 
 | Block | Content | Reuse from Assignment 1 | Owner |
 |---|---|---|---|
-| product | Product, problem, users; title and closing slide; assembles the deck and the video | Module A (workflow, display, student messages) | Mehul |
-| market | Market and competitors, pricing and unit economics, **the funding ask** (amount and what it pays for) | Module B (B1 to B4) | claim it |
-| tech | How it works: architecture, models, data, infrastructure, capacity and cost | Modules C, D, E1 to E3 | claim it |
-| risk | Risks and limitations: security, privacy, safety, governance, fairness, and how we manage them (also feeds everyone's Assignment 2 risk plan) | E4, D3, red-team findings | claim it |
+| product | Product, problem, users; title and closing slide; assembles the deck and the video | Module A (workflow, display, student messages) | Mehul (#35) |
+| market | Market and competitors, pricing and unit economics, **the funding ask** (amount and what it pays for) | Module B (B1 to B4) | Harsh (#31) |
+| tech | How it works: architecture, models, data, infrastructure, capacity and cost | Modules C, D, E1 to E3 | Kira (#32) |
+| risk | Risks and limitations: security, privacy, safety, governance, fairness, and how we manage them (also feeds everyone's Assignment 2 risk plan) | E4, D3, red-team findings | Parth (#33) |
 
-Claim a block by commenting on the final project planning issue, or ask your AI assistant to claim it for you (it follows [AGENTS.md](../AGENTS.md)).
+All four blocks were assigned on Nov 21 (logged on #34).
 
-**The deck:** one shared Google Slides file in the company Drive folder `company_b_1`. Mehul posts the link in the company Google Chat. It already has the slide order and a labelled slot for each block: Title → Problem → Product → How it works (tech) → Market and pricing → Funding ask (market) → Risks and limitations (risk) → Closing. Replace your block's placeholder box with your own content. Keep it short: your part is 30 to 45 seconds. No names, emails or student IDs on slides.
+**The deck:** "Veritas Pitch Deck - Company B1 (Team 2)", a Google Slides file in Mehul's folder in `company_b_1`. Anyone signed in with a CMU account can edit it. The link is in the company Google Chat and the WhatsApp group; it is not in this repo because the repo is public.
+
+| Slide | What | Owner |
+|---|---|---|
+| 1 | Title | Mehul (done) |
+| 2 | The problem | Mehul (done) |
+| 3 | What Veritas does, and who it is for | Mehul (done) |
+| 4 | How it works | Kira (tech) |
+| 5 | Market and pricing | Harsh (market) |
+| 6 | Our funding ask | Harsh (market) |
+| 7 | Risks and limitations | Parth (risk) |
+| 8 | Closing | Mehul (done; the funding amount comes from slide 6) |
+
+**How to fill your slide:**
+- Replace the dashed placeholder box with your own content. Mehul's slides 1 to 3 show the style: a short headline, 3 or 4 short lines, no paragraphs.
+- Write in your own words, from your own Assignment 1 work. No names, emails or student IDs on slides.
+- Put anything you want to say but not show in the speaker notes.
+- Market: the closing slide has a gap for the funding amount. Use the same number on slide 6, and tell Mehul when it is set.
+- Risk: everyone's Assignment 2 is individual, so describe Veritas risks from the case and Assignment 1 (E4, D3), not a teammate's red-team prompts or ratings.
+
+**How to record your part (by Sun Nov 29):** open the deck in Slideshow, start a screen recording (Zoom "Record" or QuickTime "New Screen Recording"), present only your own slides in 30 to 45 seconds, and send Mehul the file (Google Chat or Drive). Mehul joins the parts on Mon Nov 30.
 
 ## Internal dates
 

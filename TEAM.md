@@ -2,24 +2,24 @@
 
 The single place to see who owns what, by when, and what was decided. If it is not here or in an issue, it was not agreed.
 
-## Now (updated Nov 21)
+## Now (updated Nov 21, evening)
 
 **Two things are running at the same time:**
 
 1. **Assignment 2 is individual.** Everyone does their own red-team work and submits their own files. The revised instructions (Nov 20) confirm it: "Every person needs to make an individual Canvas submission." **Team rule: we do not share prompts, ratings, explanations or testing strategy with each other.** Ask the professor if anything is unclear. When you finish testing, email the professor for your dataset. Submission 1 is due **Tue Nov 24**. The risk plan (Submission 2) is due **Wed Dec 2**. Summary: [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md). Track yours on #41.
-2. **The final project is a team effort.** The funding pitch (slide deck plus pre-recorded video) is in class **Tue Dec 1**. It is split into four blocks; **market, tech and risk are still free: please claim one on #34 by Mon Nov 23**. Details: [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md).
+2. **The final project is a team effort.** The funding pitch (slide deck plus pre-recorded video) is in class **Tue Dec 1**. It is split into four blocks and **every block now has an owner** (table below). The shared Google Slides deck is in the company Drive; the link is in the company Google Chat and the WhatsApp group (not here, because this repo is public). Mehul's product slides (1 to 3 and 8) are done, so use them as the style example. Details: [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md).
 3. **Lab 3: Metrics Dashboard Challenge (new, individual).** It's on our Canvas (94879-B2), due **Tue Nov 24, 11:59 PM**, and open until Wed Nov 25. Points: none listed. It's on the same app (Metrics Dashboard Challenge card, access code from the professor's Nov 20 email), with 40 steps. When you finish, email the professor **and all the TAs** for your Metrics Challenge dataset. Canvas FAQ: each person does their own; co-working with your final project team is allowed but not required. On Nov 20 the professor first said the Metrics Challenge was for a different class, so we have asked her to confirm. Some people get "code not valid"; Mehul has emailed her. Track it on the Lab 3 issue.
 
-### Pitch blocks (claim on #34)
+### Pitch blocks (all assigned Nov 21)
 
 | Block | Content | Issue | Owner |
 |---|---|---|---|
-| product | Product, problem, users; assembles the deck and joins the video | #35 | Mehul |
-| market | Market, pricing and unit economics, the funding ask | #31 | free |
-| tech | Architecture, models, data, infrastructure, capacity and cost | #32 | free |
-| risk | Security, privacy, safety, governance, limitations | #33 | free |
+| product | Product, problem, users; assembles the deck and joins the video | #35 | Mehul (slides done) |
+| market | Market, pricing and unit economics, the funding ask (slides 5 and 6) | #31 | Harsh |
+| tech | Architecture, models, data, infrastructure, capacity and cost (slide 4) | #32 | Kira |
+| risk | Security, privacy, safety, governance, limitations (slide 7) | #33 | Parth |
 
-Each block: 1 to 2 slides by Sat Nov 28 and a 30 to 45 second video part by Sun Nov 29. The issue assignees are the real record.
+Each block: 1 to 2 slides by Sat Nov 28 and a 30 to 45 second video part by Sun Nov 29 (screen-record yourself over your own slides and send Mehul the file). The issue assignees are the real record.
 
 ### Open for everyone
 
@@ -90,6 +90,7 @@ The issue assignees are the real record; update the Owner column when you claim.
 | Nov 11 | Shared tasks #22 (self-evaluation) and #25 (export and upload) assigned to all four; each person comments "submitted" / "uploaded" | Every member must do them |
 | Nov 11 | Updates go in the company Google Chat, not by email | The chat is graded |
 | Nov 19 | Assignment 2 is individual, so no blocks; the final project pitch is split into four blocks (product, market, tech, risk) that teammates claim; Mehul takes product and assembles the deck and video; everyone records their own part of the video; slides due Sat Nov 28 | Canvas says Assignment 2 is individual; the pitch is team work |
+| Nov 21 | Pitch blocks assigned: risk Parth (claimed on #34), tech Kira, market Harsh (both asked Mehul to assign); posted in WhatsApp and Google Chat | Everyone has a block before the Nov 23 claim date |
 | Nov 21 | Lab 3 Metrics Dashboard Challenge is on our Canvas (due Tue Nov 24), so we do it after all; Mehul asked the professor about the access code | Canvas 94879-B2 lists it and the professor emailed the code |
 | Nov 21 | Assignment 2: each of us works alone; no sharing of prompts, ratings, explanations or testing strategy within the team | Protect everyone's academic integrity; the professor checks prompts and rewards unique ones |
 | Nov 20 | Professor: Metrics Challenge is for a different class (skip it; but see Nov 21: it is now Lab 3 on our Canvas); risk plan due Wed Dec 2; use the 1 to 5 scale | Her reply to our questions (#36) |

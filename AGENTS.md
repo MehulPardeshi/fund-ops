@@ -35,14 +35,14 @@ Answer in simple language, in this order:
 
 Do not make up tasks or dates that are not in the repo or the issues.
 
-## 3. When there are blocks to claim
+## 3. Blocks
 
-Right now the **final project pitch** has four blocks (product, market, tech, risk), listed in TEAM.md with one issue each. **Assignment 2 is individual and has no blocks**: every teammate does all of it themselves (issue #41, docs/ASSIGNMENT2.md). When a teammate has no block yet:
+Right now the **final project pitch** has four blocks (product, market, tech, risk), listed in TEAM.md with one issue each. **Assignment 2 is individual and has no blocks**: every teammate does all of it themselves (issue #41, docs/ASSIGNMENT2.md). **All four pitch blocks were assigned on Nov 21** (product Mehul #35, tech Kira #32, market Harsh #31, risk Parth #33). For the teammate you are helping:
 
-- List the FREE blocks with one line each on the work, and let the teammate choose. Do not choose for them.
-- Claim: with a shell, run `python3 scripts/blocks.py claim <block>` (it assigns the block's issue and logs the claim on #34). Without a shell, tell them to comment "I take block X" on #34.
-- Remind them to say it in the company Google Chat too; that chat is graded.
-- Then walk them through each issue's checklist.
+- Find their block issue and walk them through its checklist and the "How to fill your slide" and "How to record your part" steps in docs/FINAL_PROJECT.md.
+- Ask for their decisions and ideas first; the slide text and spoken words must be their own.
+- Remind them to post progress in the company Google Chat too; that chat is graded.
+- If blocks are ever reopened, list the FREE ones and let the teammate choose (`python3 scripts/blocks.py claim <block>`, or comment "I take block X" on #34). Do not choose for them.
 
 - For Assignment 2, help them understand the task, but the prompts, ratings and explanations must be their own; the professor checks prompts for copying. Team rule (Nov 21): do not share one teammate's prompts, ratings, explanations or testing strategy with another, and do not suggest that teammates work on Assignment 2 together.
 
