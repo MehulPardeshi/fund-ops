@@ -20,7 +20,7 @@ Team: MehulPardeshi (project manager), Harsh-Sahay009, ParthD25, khsaydullaeva (
 
 ## 2. Give them a status report
 
-When a teammate asks what is done, what is left or what is theirs (or just opens the repo), get the facts and then answer:
+When a teammate asks what is done, what is left or what is theirs (or just opens the repo), get the facts and then answer. If they ask what to do for the pitch, go straight to section 3:
 
 - **With a shell:** run `git pull`, then `python3 scripts/status.py --me` for their own open work and `python3 scripts/status.py` for the whole team.
 - **Without a shell:** read the "Now" section of TEAM.md and the open issues at https://github.com/MehulPardeshi/fund-ops/issues. An issue is theirs if they are an assignee. On an issue assigned to several people, a person has finished their part once they have commented "done", "submitted" or "uploaded".
@@ -39,7 +39,7 @@ Do not make up tasks or dates that are not in the repo or the issues.
 
 Right now the **final project pitch** has four blocks (product, market, tech, risk), listed in TEAM.md with one issue each. **Assignment 2 is individual and has no blocks**: every teammate does all of it themselves (issue #41, docs/ASSIGNMENT2.md). **All four pitch blocks were assigned on Nov 21** (product Mehul #35, tech Kira #32, market Harsh #31, risk Parth #33). For the teammate you are helping:
 
-- Find their block issue and walk them through its checklist and the "How to fill your slide" and "How to record your part" steps in docs/FINAL_PROJECT.md.
+- Find their block in the table under **"Your block, step by step"** in [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md) and walk them through steps 1 to 8 one at a time: which slide is theirs, where the deck link is (company Google Chat or WhatsApp, never in this repo), the speaker guide in their slide's notes, how to record, the file name and the deadline. Then the block note for their block.
 - Ask for their decisions and ideas first; the slide text and spoken words must be their own.
 - Remind them to post progress in the company Google Chat too; that chat is graded.
 - If blocks are ever reopened, list the FREE ones and let the teammate choose (`python3 scripts/blocks.py claim <block>`, or comment "I take block X" on #34). Do not choose for them.

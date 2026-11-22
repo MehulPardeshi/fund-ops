@@ -25,7 +25,7 @@ Four blocks, one per person. Each block owns its slides (1 to 2) and records its
 | product | Product, problem, users; title and closing slide; assembles the deck and the video | Module A (workflow, display, student messages) | Mehul (#35) |
 | market | Market and competitors, pricing and unit economics, **the funding ask** (amount and what it pays for) | Module B (B1 to B4) | Harsh (#31) |
 | tech | How it works: architecture, models, data, infrastructure, capacity and cost | Modules C, D, E1 to E3 | Kira (#32) |
-| risk | Risks and limitations: security, privacy, safety, governance, fairness, and how we manage them (also feeds everyone's Assignment 2 risk plan) | E4, D3, red-team findings | Parth (#33) |
+| risk | Risks and limitations: security, privacy, safety, governance, fairness, and how we manage them (also feeds everyone's Assignment 2 risk plan) | E4, D3, your own red-team findings | Parth (#33) |
 
 All four blocks were assigned on Nov 21 (logged on #34).
 
@@ -42,21 +42,36 @@ All four blocks were assigned on Nov 21 (logged on #34).
 | 7 | Risks and limitations | Parth (risk) |
 | 8 | Closing | Mehul (done; the funding amount comes from slide 6) |
 
-**How to fill your slide:**
-- Start with the **speaker guide in your slide's speaker notes**. It lists what to say, in order, with the case numbers you can use and an optional fill-in-the-blank starter. Write your own script from it (about 75 to 110 words), then replace the guide with your script.
-- Replace the dashed placeholder box with your own content. Mehul's slides 1 to 3 show the style: a short headline, 3 or 4 short lines, no paragraphs.
-- Write in your own words, from your own Assignment 1 work. No names, emails or student IDs on slides.
-- Put anything you want to say but not show in the speaker notes.
-- Market: the closing slide has a gap for the funding amount. Use the same number on slide 6, and tell Mehul when it is set.
-- Risk: everyone's Assignment 2 is individual, so describe Veritas risks from the case and Assignment 1 (E4, D3), not a teammate's red-team prompts or ratings.
+## Your block, step by step
 
-**How to record your part (by Sun Nov 29):**
-1. Open the deck in Slideshow on your own slide(s), with your script in the speaker notes.
-2. Start a screen recording with your voice: Zoom (start a meeting alone, share screen, Record; it saves an **.mp4**) or QuickTime (File, New Screen Recording, choose your microphone; it saves a **.mov**). Either file type is fine.
-3. Present only your own slides, in 30 to 45 seconds. Market: slides 5 and 6 in one recording.
-4. Name the file by block, for example `tech_kira.mp4`, `market_harsh.mp4`, `risk_parth.mp4`, and send it to Mehul (Google Chat, or upload to Drive and share).
+This is the whole job for each block. Your AI assistant can walk you through it (see [AGENTS.md](../AGENTS.md)).
 
-Mehul joins the parts on Mon Nov 30.
+| Who | Block | Your slides | Issue | Video file name |
+|---|---|---|---|---|
+| Kira | tech | 4 How it works | #32 | `tech_kira.mp4` |
+| Harsh | market | 5 Market and pricing, 6 Our funding ask | #31 | `market_harsh.mp4` |
+| Parth | risk | 7 Risks and limitations | #33 | `risk_parth.mp4` |
+| Mehul | product | 1 to 3 and 8 (done) | #35 | `product_mehul.mp4` |
+
+1. **Comment "started" on your issue** so the team can see it.
+2. **Open the deck** with your Andrew (CMU) Google account. The link is in the company Google Chat and the WhatsApp group (search "Veritas Pitch Deck"). It is not in this repo because the repo is public.
+3. **Read the speaker guide** in the speaker notes under your slide. It says what to cover, in order, gives the case numbers you can use, and has an optional fill-in-the-blank starter.
+4. **Fill your slide.** Replace the dashed placeholder box with a short headline and 3 or 4 short lines. No paragraphs. No names, emails or student IDs. Mehul's slides 1 to 3 show the style.
+5. **Write your script** in your own words: about 75 to 110 words, 30 to 45 seconds out loud. Put it in the speaker notes in place of the guide. Only say numbers that are on your slide.
+6. **Record your part** (by **Sun Nov 29**). Open the deck in Slideshow on your slide(s), then either:
+   - Zoom: start a meeting by yourself, share your screen, press Record (saves an **.mp4**), or
+   - QuickTime: File, New Screen Recording, choose your microphone (saves a **.mov**). Either type is fine.
+
+   Present only your own slides. Market: slides 5 and 6 in one recording.
+7. **Send Mehul the file**, named as in the table, in the company Google Chat or by sharing it from Drive.
+8. **Comment "done" on your issue.**
+
+**Block notes:**
+- **Market (Harsh):** set the funding amount on slide 6 and tell Mehul; the closing slide (8) uses the same number. Asking for more money does not earn a better grade, so pick an amount you can explain.
+- **Tech (Kira):** reuse your Module D and E1 to E3 work (models, stack, capacity, cost).
+- **Risk (Parth):** use the case and Assignment 1 (E4, D3) and your own work. Assignment 2 is individual, so do not use a teammate's red-team prompts or ratings. Being open about limits counts in the grade.
+
+**Rules:** your own words and your own reasoning (the professor allows AI help, but the reasoning must be yours). Slides by **Sat Nov 28**, recording by **Sun Nov 29**. Mehul joins the parts on Mon Nov 30, and we pitch Tue Dec 1.
 
 ## Internal dates
 
