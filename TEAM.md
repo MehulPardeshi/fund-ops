@@ -2,13 +2,23 @@
 
 The single place to see who owns what, by when, and what was decided. If it is not here or in an issue, it was not agreed.
 
-## Now (updated Nov 21, evening)
+## Now (updated Nov 23)
 
-**Two things are running at the same time:**
+**Four things are running at the same time:**
 
-1. **Assignment 2 is individual.** Everyone does their own red-team work and submits their own files. The revised instructions (Nov 20) confirm it: "Every person needs to make an individual Canvas submission." **Team rule: we do not share prompts, ratings, explanations or testing strategy with each other.** Ask the professor if anything is unclear. When you finish testing, email the professor for your dataset. Submission 1 is due **Tue Nov 24**. The risk plan (Submission 2) is due **Wed Dec 2**. Summary: [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md). Track yours on #41.
+1. **Assignment 2 is individual. There is nothing to split.** Your dataset from the professor is your own: check it, improve your own explanations if you want, and upload it with your own criteria PDF. Everyone does their own red-team work and submits their own files. The revised instructions (Nov 20) confirm it: "Every person needs to make an individual Canvas submission." **Team rule: we do not share prompts, ratings, explanations or testing strategy with each other.** Ask the professor if anything is unclear. When you finish testing, email the professor for your dataset. Submission 1 is due **Tue Nov 24**. The risk plan (Submission 2) is due **Wed Dec 2**. Summary: [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md). Track yours on #41.
 2. **The final project is a team effort.** The funding pitch (slide deck plus pre-recorded video) is in class **Tue Dec 1**. It is split into four blocks and **every block now has an owner** (table below). The shared Google Slides deck is in the company Drive; the link is in the company Google Chat and the WhatsApp group (not here, because this repo is public). Mehul's product slides (1 to 3 and 8) are done, so use them as the style example. Details: [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md).
-3. **Lab 3: Metrics Dashboard Challenge (new, individual).** It's on our Canvas (94879-B2), due **Tue Nov 24, 11:59 PM**, and open until Wed Nov 25. Points: none listed. It's on the same app (Metrics Dashboard Challenge card, access code from the professor's Nov 20 email), with 40 steps. When you finish, email the professor **and all the TAs** for your Metrics Challenge dataset. Canvas FAQ: each person does their own; co-working with your final project team is allowed but not required. On Nov 20 the professor first said the Metrics Challenge was for a different class, so we have asked her to confirm. Some people get "code not valid"; Mehul has emailed her. Track it on the Lab 3 issue.
+3. **Lab 3: Metrics Dashboard Challenge (new, individual).** It's on our Canvas (94879-B2), due **Tue Nov 24, 11:59 PM**, and open until Wed Nov 25. Points: none listed. It's on the same app (Metrics Dashboard Challenge card, access code from the professor's Nov 20 email), with 40 steps. When you finish, email the professor **and all the TAs** for your Metrics Challenge dataset. Canvas FAQ: each person does their own; co-working with your final project team is allowed but not required. On Nov 20 the professor first said the Metrics Challenge was for a different class, so we have asked her to confirm. The professor issued a new access code (Nov 23); if yours does not work, email her. Track it on the Lab 3 issue (#42).
+4. **Metrics dashboard poster (new, team).** The last screen of Lab 3 asks each final project team to make one poster: a custom metrics dashboard for an AI product that does only ONE task. Ours: Veritas, task = Education. Each person owns one panel (table below). Panels by **Wed Dec 2**, Mehul assembles Thu Dec 3, submit by **Fri Dec 4** (no separate date posted). Steps: [docs/POSTER.md](docs/POSTER.md).
+
+### Poster panels (assigned Nov 23)
+
+| Panel | Owner | Issue |
+|---|---|---|
+| Product and layout (and assembly) | Mehul | #43 |
+| Model performance | Kira | #44 |
+| Users and business | Harsh | #45 |
+| Risk and cost of risk | Parth | #46 |
 
 ### Pitch blocks (all assigned Nov 21)
 
@@ -37,12 +47,15 @@ Each block: 1 to 2 slides by Sat Nov 28 and a 30 to 45 second video part by Sun 
 |---|---|
 | Tue Nov 24 | Assignment 2 Submission 1 (individual); Lab 3 Metrics Dashboard Challenge (individual) |
 | Wed Nov 25 | Optional leaderboard competition closes |
+| Tue Nov 24 | Lab 3 Metrics Dashboard Challenge (individual) |
 | Sat Nov 28 | Pitch slides in the shared deck |
 | Sun Nov 29 | Video parts recorded |
 | Mon Nov 30 | Deck and video final |
 | Tue Dec 1 | Pitch and investor feedback |
 | Thu Dec 3 | Merger or acquisition decision and peer review |
-| Fri Dec 4 | Final project due |
+| Wed Dec 2 | Poster panels in the poster file |
+| Thu Dec 3 | Mehul assembles the poster |
+| Fri Dec 4 | Final project and poster due |
 | Wed Dec 2 | Assignment 2 Submission 2 (risk plan, individual) |
 
 ## Blocks (Assignment 1, submitted Nov 15)
@@ -90,6 +103,7 @@ The issue assignees are the real record; update the Owner column when you claim.
 | Nov 11 | Shared tasks #22 (self-evaluation) and #25 (export and upload) assigned to all four; each person comments "submitted" / "uploaded" | Every member must do them |
 | Nov 11 | Updates go in the company Google Chat, not by email | The chat is graded |
 | Nov 19 | Assignment 2 is individual, so no blocks; the final project pitch is split into four blocks (product, market, tech, risk) that teammates claim; Mehul takes product and assembles the deck and video; everyone records their own part of the video; slides due Sat Nov 28 | Canvas says Assignment 2 is individual; the pitch is team work |
+| Nov 23 | Poster split into four panels (product Mehul #43, performance Kira #44, business Harsh #45, risk Parth #46); Veritas, task = Education | Same areas as the pitch blocks, so everyone reuses their own work |
 | Nov 21 | Pitch blocks assigned: risk Parth (claimed on #34), tech Kira, market Harsh (both asked Mehul to assign); posted in WhatsApp and Google Chat | Everyone has a block before the Nov 23 claim date |
 | Nov 21 | Lab 3 Metrics Dashboard Challenge is on our Canvas (due Tue Nov 24), so we do it after all; Mehul asked the professor about the access code | Canvas 94879-B2 lists it and the professor emailed the code |
 | Nov 21 | Assignment 2: each of us works alone; no sharing of prompts, ratings, explanations or testing strategy within the team | Protect everyone's academic integrity; the professor checks prompts and rewards unique ones |

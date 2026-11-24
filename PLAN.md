@@ -6,12 +6,13 @@
 |---|---|---|---|---|
 | 1 | Assignment 2 Submission 1: evaluation criteria PDF and red-team dataset | each person (individual) | Tue Nov 24 | in progress (#41) |
 | 2 | Assignment 2 Submission 2: risk disclosure and management plan PDF | each person (individual) | Wed Dec 2 | in progress (#41) |
-| 3 | Lab 3 Metrics Dashboard Challenge | each person (individual) | Tue Nov 24 | waiting on a working access code (#42) |
+| 3 | Lab 3 Metrics Dashboard Challenge | each person (individual) | Tue Nov 24 | new access code issued Nov 23 (#42) |
 | 4 | Funding pitch slide deck and pre-recorded video | team, four blocks (#34) | Tue Dec 1 | all blocks assigned Nov 21; product slides done; others due Sat Nov 28 |
 | 5 | Investor feedback form | each person | Tue Dec 1, in class | (#38) |
 | 6 | Merger or acquisition decision: slide, 1 minute presentation, Google Form | team | Thu Dec 3 | (#39) |
 | 7 | Peer review form | each person | Thu Dec 3, in class | (#40) |
 | 8 | Final project submission | team | Fri Dec 4 | requirements not posted |
+| 9 | Metrics dashboard poster (from Lab 3) | team, four panels (#43 to #46) | Fri Dec 4 (assumed) | assigned Nov 23; panels due Wed Dec 2 |
 
 Details: [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md) and [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md).
 

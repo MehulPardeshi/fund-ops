@@ -42,6 +42,8 @@ Right now the **final project pitch** has four blocks (product, market, tech, ri
 - Find their block in the table under **"Your block, step by step"** in [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md) and walk them through steps 1 to 8 one at a time: which slide is theirs, where the deck link is (company Google Chat or WhatsApp, never in this repo), the speaker guide in their slide's notes, how to record, the file name and the deadline. Then the block note for their block.
 - Ask for their decisions and ideas first; the slide text and spoken words must be their own.
 - Remind them to post progress in the company Google Chat too; that chat is graded.
+- **Poster (assigned Nov 23):** each person also owns one panel of the Lab 3 metrics dashboard poster (product Mehul #43, performance Kira #44, business Harsh #45, risk Parth #46). Walk them through "Your panel, step by step" in [docs/POSTER.md](docs/POSTER.md).
+- **Assignment 2 has nothing to split.** If a teammate asks how the team splits Assignment 2 or its dataset, say clearly that it is individual: they check and upload their own dataset and criteria PDF (docs/ASSIGNMENT2.md).
 - If blocks are ever reopened, list the FREE ones and let the teammate choose (`python3 scripts/blocks.py claim <block>`, or comment "I take block X" on #34). Do not choose for them.
 
 - For Assignment 2, help them understand the task, but the prompts, ratings and explanations must be their own; the professor checks prompts for copying. Team rule (Nov 21): do not share one teammate's prompts, ratings, explanations or testing strategy with another, and do not suggest that teammates work on Assignment 2 together.
@@ -71,6 +73,7 @@ Right now the **final project pitch** has four blocks (product, market, tech, ri
 | [docs/VM.md](docs/VM.md) | Course server: VPN, login, folders |
 | [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md) | Assignment 2 (individual) explained |
 | [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md) | Final project blocks and dates |
+| [docs/POSTER.md](docs/POSTER.md) | Metrics dashboard poster: panels and steps |
 | [docs/PROJECT_GUIDE.md](docs/PROJECT_GUIDE.md) | Case summary, grading, Assignment 1 notebook how-to |
 | [docs/SUBMIT.md](docs/SUBMIT.md) | Assignment 1 export, upload and file names |
 | [docs/COMMS.md](docs/COMMS.md) | Channels, questions to the professor and answers |

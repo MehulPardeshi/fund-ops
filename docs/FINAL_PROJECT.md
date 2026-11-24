@@ -73,6 +73,10 @@ This is the whole job for each block. Your AI assistant can walk you through it 
 
 **Rules:** your own words and your own reasoning (the professor allows AI help, but the reasoning must be yours). Slides by **Sat Nov 28**, recording by **Sun Nov 29**. Mehul joins the parts on Mon Nov 30, and we pitch Tue Dec 1.
 
+## Metrics dashboard poster
+
+Also part of the final project: one team poster with a custom metrics dashboard for Veritas (task: Education). Each person owns one panel (#43 to #46). Steps: [POSTER.md](POSTER.md).
+
 ## Internal dates
 
 | Date | What |
