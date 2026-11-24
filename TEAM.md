@@ -2,7 +2,7 @@
 
 The single place to see who owns what, by when, and what was decided. If it is not here or in an issue, it was not agreed.
 
-## Now (updated Nov 23, night)
+## Now (updated Nov 24)
 
 **Individual work (do your own, do not share):**
 
@@ -12,18 +12,20 @@ The single place to see who owns what, by when, and what was decided. If it is n
 
 **Team work (assigned on GitHub):**
 
-4. **Funding pitch, in class Tue Dec 1:** shared Google Slides deck (link in the company Google Chat and WhatsApp, not here). Slides by **Sat Nov 28**, **audio-only** recording of your part by **Sun Nov 29** (time limits below). Steps: [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md).
+4. **Funding pitch, live in class Tue Dec 1 (new instructions, Nov 24):** a **3-minute live pitch** where everyone speaks, with **at most 5 main slides** plus an appendix. The deck is submitted as a **PDF by Fri Dec 4**. **No recordings any more.** Shared Google Slides deck (link in the company Google Chat and WhatsApp, not here). Your slide, backup slides and sources by **Sat Nov 28**. Steps: [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md).
 5. **Metrics dashboard poster (from Lab 3):** one panel each by **Wed Dec 2**; Mehul assembles and submits by **Fri Dec 4**. Steps: [docs/POSTER.md](docs/POSTER.md).
 6. **In class:** investor feedback form (Tue Dec 1, #38); merger or acquisition decision and peer review (Thu Dec 3, #39, #40).
 
 ### Pitch blocks
 
-| Block | Slides | Audio time limit | Issue | Owner | Status (Nov 23) |
-|---|---|---|---|---|---|
-| product | 1 to 3, 8 | 40 s + 10 s closing | #35 | Mehul | slides done |
-| tech | 4 | 30 s | #32 | Kira | not started |
-| market | 5 and 6 (incl. the funding amount) | 40 s | #31 | Harsh | not started |
-| risk | 7 | 30 s | #33 | Parth | slide filled |
+| Block (role) | Main slide | Backup slides | Live time | Issue | Owner | Status (Nov 24) |
+|---|---|---|---|---|---|---|
+| product (product lead) | 1 and 2 | problem and product detail | 50 s | #35 | Mehul | slides rebuilt for the 5-slide limit |
+| tech (technical lead) | 3 How it works | A5 | 40 s | #32 | Kira | not started |
+| risk (risk and compliance lead) | 4 Safety, fairness and compliance | A8 | 40 s | #33 | Parth | slide and script filled; needs rules, title, sources |
+| market (finance and strategy lead) | 5 Market and the ask | A6, A7 | 40 s | #31 | Harsh | not started |
+
+Everyone adds their numbers' sources to appendix slide A1, and any AI tool use to A2.
 
 ### Poster panels
 
@@ -48,13 +50,12 @@ The issue assignees are the real record.
 |---|---|
 | Tue Nov 24 | Assignment 2 Submission 1 (individual); Lab 3 (individual) |
 | Wed Nov 25 | Optional leaderboard competition closes |
-| Sat Nov 28 | Pitch slides in the shared deck |
-| Sun Nov 29 | Audio recordings sent to Mehul |
-| Mon Nov 30 | Mehul joins the video; deck final |
-| Tue Dec 1 | Pitch and investor feedback (in class) |
+| Sat Nov 28 | Pitch slides, backup slides and sources (A1) in the shared deck |
+| Mon Nov 30 | Team rehearsal with a timer (online, time to be agreed); deck final |
+| Tue Dec 1 | Live 3-minute pitch and investor feedback (in class) |
 | Wed Dec 2 | Assignment 2 Submission 2 (risk plan); poster panels done |
 | Thu Dec 3 | Merger or acquisition decision and peer review (in class); Mehul assembles the poster |
-| Fri Dec 4 | Final project and poster due |
+| Fri Dec 4 | Deck as PDF and poster due on Canvas (Mehul submits) |
 
 ## Blocks (Assignment 1, submitted Nov 15)
 
@@ -101,6 +102,7 @@ The issue assignees are the real record; update the Owner column when you claim.
 | Nov 11 | Shared tasks #22 (self-evaluation) and #25 (export and upload) assigned to all four; each person comments "submitted" / "uploaded" | Every member must do them |
 | Nov 11 | Updates go in the company Google Chat, not by email | The chat is graded |
 | Nov 19 | Assignment 2 is individual, so no blocks; the final project pitch is split into four blocks (product, market, tech, risk) that teammates claim; Mehul takes product and assembles the deck and video; everyone records their own part of the video; slides due Sat Nov 28 | Canvas says Assignment 2 is individual; the pitch is team work |
+| Nov 24 | Pitch changed to the professor's Final Presentation Instructions: live 3-minute pitch, at most 5 main slides plus appendix, deck as PDF by Dec 4, every member speaks. Same four owners; slides merged (Mehul 1-2, Kira 3, Parth 4, Harsh 5); recordings dropped; AI tool use disclosed on appendix slide A2 | The instructions require it; the roles in her table match our blocks |
 | Nov 23 | Poster split into four panels (product Mehul #43, performance Kira #44, business Harsh #45, risk Parth #46); Veritas, task = Education | Same areas as the pitch blocks, so everyone reuses their own work |
 | Nov 21 | Pitch blocks assigned: risk Parth (claimed on #34), tech Kira, market Harsh (both asked Mehul to assign); posted in WhatsApp and Google Chat | Everyone has a block before the Nov 23 claim date |
 | Nov 21 | Lab 3 Metrics Dashboard Challenge is on our Canvas (due Tue Nov 24), so we do it after all; Mehul asked the professor about the access code | Canvas 94879-B2 lists it and the professor emailed the code |
