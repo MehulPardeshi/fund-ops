@@ -38,6 +38,10 @@ Grading: 30% of the course. Criteria 5, challenges 15, risk plan 10. Rubric: acc
 5. If a reply shows "[No response]", refresh the page (or log in again) and run the test again in a fresh conversation.
 6. The app's Export buttons give an incomplete file (chat only, no ratings, only since the last refresh). Email the professor for your dataset instead.
 
+## Open question: Submission 2
+
+The Canvas page for Submission 2 (Nov 19) calls the risk plan a team submission, but the newer revised instructions (Nov 20) say every person submits individually. Mehul has asked the professor to confirm (see docs/COMMS.md). Until then, prepare your own risk plan.
+
 ## Optional and related
 
 - **Leaderboard competition:** optional, points for unique jailbreaks, open until Wed Nov 25. Sign up with the form in the Canvas announcement.
