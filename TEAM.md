@@ -8,7 +8,7 @@ The single place to see who owns what, by when, and what was decided. If it is n
 
 1. **Assignment 2, Submission 1, due Tue Nov 24, 11:59 PM:** upload your own evaluation criteria PDF and your own dataset (the file the professor emailed you; you may improve your explanations, not the prompts or responses). There is nothing to split. Steps: [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md). Track on #41.
 2. **Assignment 2, Submission 2 (risk plan), due Wed Dec 2:** prepare your own. The Canvas page calls it a team submission, but the newer revised instructions (Nov 20) say every person submits individually; Mehul has asked the professor to confirm ([docs/COMMS.md](docs/COMMS.md)).
-3. **Lab 3: Metrics Dashboard Challenge, due Tue Nov 24:** do the 40 steps in the course app (new access code issued Nov 23), then email the professor **and all the TAs** for your dataset. Not graded on Canvas, but required. Track on #42.
+3. **Lab 3: Metrics Dashboard Challenge, due Tue Nov 24, 11:59 PM ET (Canvas closes Wed Nov 25):** do the 40 steps in the course app (new access code issued Nov 23), then email the professor **and all the TAs** for your dataset. There is nothing to upload on Canvas (it is marked not graded), but the challenge is required. Comment "done" on #42.
 
 **Team work (assigned on GitHub):**
 
