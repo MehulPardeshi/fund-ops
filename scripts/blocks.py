@@ -14,10 +14,10 @@ LOG_ISSUE = 34  # final project: pitch blocks and claims
 # Current blocks: final project funding pitch (Tue Dec 1). Assignment 2 is
 # individual and has no blocks. Assignment 1 used labels block-A ... block-sheet.
 BLOCKS = {
-    "product": "Product, problem, users; assembles the deck and joins the video (Mehul)",
-    "market": "Market, competitors, pricing and unit economics, the funding ask",
-    "tech": "Architecture, models, data, infrastructure, capacity and cost",
-    "risk": "Security, privacy, safety, governance, fairness, limitations",
+    "product": "Slides 1-2: title, problem, solution; assembles the deck and submits the PDF (Mehul)",
+    "market": "Slide 5 + A6, A7: market, buyer, unit economics, the funding ask",
+    "tech": "Slide 3 + A5: how it works, models, capacity, cost, evaluation",
+    "risk": "Slide 4 + A8: safety, fairness, compliance, top risks",
 }
 
 
