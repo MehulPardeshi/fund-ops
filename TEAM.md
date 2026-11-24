@@ -2,61 +2,59 @@
 
 The single place to see who owns what, by when, and what was decided. If it is not here or in an issue, it was not agreed.
 
-## Now (updated Nov 23)
+## Now (updated Nov 23, night)
 
-**Four things are running at the same time:**
+**Individual work (do your own, do not share):**
 
-1. **Assignment 2 is individual. There is nothing to split.** Your dataset from the professor is your own: check it, improve your own explanations if you want, and upload it with your own criteria PDF. Everyone does their own red-team work and submits their own files. The revised instructions (Nov 20) confirm it: "Every person needs to make an individual Canvas submission." **Team rule: we do not share prompts, ratings, explanations or testing strategy with each other.** Ask the professor if anything is unclear. When you finish testing, email the professor for your dataset. Submission 1 is due **Tue Nov 24**. The risk plan (Submission 2) is due **Wed Dec 2**. Summary: [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md). Track yours on #41.
-2. **The final project is a team effort.** The funding pitch (slide deck plus pre-recorded video) is in class **Tue Dec 1**. It is split into four blocks and **every block now has an owner** (table below). The shared Google Slides deck is in the company Drive; the link is in the company Google Chat and the WhatsApp group (not here, because this repo is public). Mehul's product slides (1 to 3 and 8) are done, so use them as the style example. Details: [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md).
-3. **Lab 3: Metrics Dashboard Challenge (new, individual).** It's on our Canvas (94879-B2), due **Tue Nov 24, 11:59 PM**, and open until Wed Nov 25. Points: none listed. It's on the same app (Metrics Dashboard Challenge card, access code from the professor's Nov 20 email), with 40 steps. When you finish, email the professor **and all the TAs** for your Metrics Challenge dataset. Canvas FAQ: each person does their own; co-working with your final project team is allowed but not required. On Nov 20 the professor first said the Metrics Challenge was for a different class, so we have asked her to confirm. The professor issued a new access code (Nov 23); if yours does not work, email her. Track it on the Lab 3 issue (#42).
-4. **Metrics dashboard poster (new, team).** The last screen of Lab 3 asks each final project team to make one poster: a custom metrics dashboard for an AI product that does only ONE task. Ours: Veritas, task = Education. Each person owns one panel (table below). Panels by **Wed Dec 2**, Mehul assembles Thu Dec 3, submit by **Fri Dec 4** (no separate date posted). Steps: [docs/POSTER.md](docs/POSTER.md).
+1. **Assignment 2, Submission 1, due Tue Nov 24, 11:59 PM:** upload your own evaluation criteria PDF and your own dataset (the file the professor emailed you; you may improve your explanations, not the prompts or responses). There is nothing to split. Steps: [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md). Track on #41.
+2. **Assignment 2, Submission 2 (risk plan), due Wed Dec 2:** prepare your own. The Canvas page calls it a team submission, but the newer revised instructions (Nov 20) say every person submits individually; Mehul has asked the professor to confirm ([docs/COMMS.md](docs/COMMS.md)).
+3. **Lab 3: Metrics Dashboard Challenge, due Tue Nov 24:** do the 40 steps in the course app (new access code issued Nov 23), then email the professor **and all the TAs** for your dataset. Not graded on Canvas, but required. Track on #42.
 
-### Poster panels (assigned Nov 23)
+**Team work (assigned on GitHub):**
 
-| Panel | Owner | Issue |
+4. **Funding pitch, in class Tue Dec 1:** shared Google Slides deck (link in the company Google Chat and WhatsApp, not here). Slides by **Sat Nov 28**, **audio-only** recording of your part by **Sun Nov 29** (time limits below). Steps: [docs/FINAL_PROJECT.md](docs/FINAL_PROJECT.md).
+5. **Metrics dashboard poster (from Lab 3):** one panel each by **Wed Dec 2**; Mehul assembles and submits by **Fri Dec 4**. Steps: [docs/POSTER.md](docs/POSTER.md).
+6. **In class:** investor feedback form (Tue Dec 1, #38); merger or acquisition decision and peer review (Thu Dec 3, #39, #40).
+
+### Pitch blocks
+
+| Block | Slides | Audio time limit | Issue | Owner | Status (Nov 23) |
+|---|---|---|---|---|---|
+| product | 1 to 3, 8 | 40 s + 10 s closing | #35 | Mehul | slides done |
+| tech | 4 | 30 s | #32 | Kira | not started |
+| market | 5 and 6 (incl. the funding amount) | 40 s | #31 | Harsh | not started |
+| risk | 7 | 30 s | #33 | Parth | slide filled |
+
+### Poster panels
+
+| Panel | Issue | Owner |
 |---|---|---|
-| Product and layout (and assembly) | Mehul | #43 |
-| Model performance | Kira | #44 |
-| Users and business | Harsh | #45 |
-| Risk and cost of risk | Parth | #46 |
+| Product and layout (and assembly) | #43 | Mehul |
+| Model performance | #44 | Kira |
+| Users and business | #45 | Harsh |
+| Risk and cost of risk | #46 | Parth |
 
-### Pitch blocks (all assigned Nov 21)
+The issue assignees are the real record.
 
-| Block | Content | Issue | Owner |
-|---|---|---|---|
-| product | Product, problem, users; assembles the deck and joins the video | #35 | Mehul (slides done) |
-| market | Market, pricing and unit economics, the funding ask (slides 5 and 6) | #31 | Harsh |
-| tech | Architecture, models, data, infrastructure, capacity and cost (slide 4) | #32 | Kira |
-| risk | Security, privacy, safety, governance, limitations (slide 7) | #33 | Parth |
-
-Each block: 1 to 2 slides by Sat Nov 28 and an **audio recording** of your part by Sun Nov 29, within your time limit (Kira 30 s, Harsh 40 s, Parth 30 s; no video or face needed). Send Mehul the file; he puts the audio over the slides. Steps and limits: docs/FINAL_PROJECT.md. The issue assignees are the real record.
-
-### Open for everyone
+### Other open items
 
 | What | Issue |
 |---|---|
-| Your own Assignment 2 (Submission 1 due Tue Nov 24) | #41 |
 | Course server: change the temporary password (Harsh, Parth, Kira) | #30 |
-| Investor feedback form, in class Tue Dec 1 | #38 |
-| Merger or acquisition decision, in class Thu Dec 3 | #39 |
-| Peer review form, in class Thu Dec 3 | #40 |
 
 ### Dates
 
 | Date | What |
 |---|---|
-| Tue Nov 24 | Assignment 2 Submission 1 (individual); Lab 3 Metrics Dashboard Challenge (individual) |
+| Tue Nov 24 | Assignment 2 Submission 1 (individual); Lab 3 (individual) |
 | Wed Nov 25 | Optional leaderboard competition closes |
-| Tue Nov 24 | Lab 3 Metrics Dashboard Challenge (individual) |
 | Sat Nov 28 | Pitch slides in the shared deck |
-| Sun Nov 29 | Video parts recorded |
-| Mon Nov 30 | Deck and video final |
-| Tue Dec 1 | Pitch and investor feedback |
-| Thu Dec 3 | Merger or acquisition decision and peer review |
-| Wed Dec 2 | Poster panels in the poster file |
-| Thu Dec 3 | Mehul assembles the poster |
+| Sun Nov 29 | Audio recordings sent to Mehul |
+| Mon Nov 30 | Mehul joins the video; deck final |
+| Tue Dec 1 | Pitch and investor feedback (in class) |
+| Wed Dec 2 | Assignment 2 Submission 2 (risk plan); poster panels done |
+| Thu Dec 3 | Merger or acquisition decision and peer review (in class); Mehul assembles the poster |
 | Fri Dec 4 | Final project and poster due |
-| Wed Dec 2 | Assignment 2 Submission 2 (risk plan, individual) |
 
 ## Blocks (Assignment 1, submitted Nov 15)
 

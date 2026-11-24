@@ -5,9 +5,9 @@
 | # | Deliverable | Who | Due | Status |
 |---|---|---|---|---|
 | 1 | Assignment 2 Submission 1: evaluation criteria PDF and red-team dataset | each person (individual) | Tue Nov 24 | in progress (#41) |
-| 2 | Assignment 2 Submission 2: risk disclosure and management plan PDF | each person (individual) | Wed Dec 2 | in progress (#41) |
+| 2 | Assignment 2 Submission 2: risk disclosure and management plan PDF | each person (individual, being confirmed with the professor) | Wed Dec 2 | in progress (#41) |
 | 3 | Lab 3 Metrics Dashboard Challenge | each person (individual) | Tue Nov 24 | new access code issued Nov 23 (#42) |
-| 4 | Funding pitch slide deck and pre-recorded video | team, four blocks (#34) | Tue Dec 1 | all blocks assigned Nov 21; product slides done; others due Sat Nov 28 |
+| 4 | Funding pitch slide deck and pre-recorded video | team, four blocks (#34) | Tue Dec 1 | product slides done, risk slide filled; tech and market due Sat Nov 28; audio by Sun Nov 29 |
 | 5 | Investor feedback form | each person | Tue Dec 1, in class | (#38) |
 | 6 | Merger or acquisition decision: slide, 1 minute presentation, Google Form | team | Thu Dec 3 | (#39) |
 | 7 | Peer review form | each person | Thu Dec 3, in class | (#40) |
