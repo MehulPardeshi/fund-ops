@@ -18,7 +18,7 @@ Grades come from the substance of our Assignment 1 and 2 work, the presentation 
 
 ## How we split the pitch
 
-Four blocks, one per person. Each block owns its slides (1 to 2) and records its own 30 to 45 second part of the video. Mehul assembles the deck and joins the clips. The pitch is 1 to 3 minutes in total, so keep each part short.
+Four blocks, one per person. Each block owns its slides (1 to 2) and records its own **audio** for its slides (time limits below). Mehul assembles the deck and puts everyone's audio over the slides to make the video. The pitch is 1 to 3 minutes in total, so keep each part short.
 
 | Block | Content | Reuse from Assignment 1 | Owner |
 |---|---|---|---|
@@ -46,24 +46,29 @@ All four blocks were assigned on Nov 21 (logged on #34).
 
 This is the whole job for each block. Your AI assistant can walk you through it (see [AGENTS.md](../AGENTS.md)).
 
-| Who | Block | Your slides | Issue | Video file name |
-|---|---|---|---|---|
-| Kira | tech | 4 How it works | #32 | `tech_kira.mp4` |
-| Harsh | market | 5 Market and pricing, 6 Our funding ask | #31 | `market_harsh.mp4` |
-| Parth | risk | 7 Risks and limitations | #33 | `risk_parth.mp4` |
-| Mehul | product | 1 to 3 and 8 (done) | #35 | `product_mehul.mp4` |
+| Who | Block | Your slides | Issue | Your audio: time limit | Words (about) | Audio file name |
+|---|---|---|---|---|---|---|
+| Mehul | product | 1 to 3 | #35 | 40 seconds | 100 | `product_mehul.m4a` |
+| Kira | tech | 4 How it works | #32 | **30 seconds** | 75 | `tech_kira.m4a` |
+| Harsh | market | 5 Market and pricing, 6 Our funding ask | #31 | **40 seconds** (both slides) | 100 | `market_harsh.m4a` |
+| Parth | risk | 7 Risks and limitations | #33 | **30 seconds** | 75 | `risk_parth.m4a` |
+| Mehul | closing | 8 | #35 | 10 seconds | 25 | `closing_mehul.m4a` |
+
+Total: about 2 minutes 30 seconds, which leaves room inside the 3-minute limit. **Do not go over your time.** If you do, cut words, don't speed up.
 
 1. **Comment "started" on your issue** so the team can see it.
 2. **Open the deck** with your Andrew (CMU) Google account. The link is in the company Google Chat and the WhatsApp group (search "Veritas Pitch Deck"). It is not in this repo because the repo is public.
 3. **Read the speaker guide** in the speaker notes under your slide. It says what to cover, in order, gives the case numbers you can use, and has an optional fill-in-the-blank starter.
 4. **Fill your slide.** Replace the dashed placeholder box with a short headline and 3 or 4 short lines. No paragraphs. No names, emails or student IDs. Mehul's slides 1 to 3 show the style.
-5. **Write your script** in your own words: about 75 to 110 words, 30 to 45 seconds out loud. Put it in the speaker notes in place of the guide. Only say numbers that are on your slide.
-6. **Record your part** (by **Sun Nov 29**). Open the deck in Slideshow on your slide(s), then either:
-   - Zoom: start a meeting by yourself, share your screen, press Record (saves an **.mp4**), or
-   - QuickTime: File, New Screen Recording, choose your microphone (saves a **.mov**). Either type is fine.
-
-   Present only your own slides. Market: slides 5 and 6 in one recording.
-7. **Send Mehul the file**, named as in the table, in the company Google Chat or by sharing it from Drive.
+5. **Write your script** in your own words, within your time limit and word count in the table (people speak about 2.5 words per second). Put it in the speaker notes in place of the guide. Only say numbers that are on your slide.
+6. **Record your audio** (by **Sun Nov 29**). Audio only: no video and no face needed (the case asks only for a pre-recorded pitch video; Mehul puts the audio over the slides).
+   - Use your phone's Voice Memos / voice recorder app, or QuickTime on a Mac (File, New Audio Recording). Either gives a small audio file (.m4a is fine; .mp3 or .wav also fine).
+   - Quiet room, phone about a hand's width from your mouth, no music or fan noise.
+   - Time yourself. Read your script once out loud with a timer first. **Stay within your time limit.**
+   - Leave **1 second of silence** at the start and end. Market (Harsh): leave a **2-second pause** where slide 5 changes to slide 6, so Mehul can switch slides there.
+   - Do not say your name (no names in submissions).
+   - One clean take. Record again if you stumble.
+7. **Send Mehul the file**, named as in the table (for example `tech_kira.m4a`), in the company Google Chat or by sharing it from Drive.
 8. **Comment "done" on your issue.**
 
 **Block notes:**

@@ -29,7 +29,7 @@ The single place to see who owns what, by when, and what was decided. If it is n
 | tech | Architecture, models, data, infrastructure, capacity and cost (slide 4) | #32 | Kira |
 | risk | Security, privacy, safety, governance, limitations (slide 7) | #33 | Parth |
 
-Each block: 1 to 2 slides by Sat Nov 28 and a 30 to 45 second video part by Sun Nov 29 (screen-record yourself over your own slides and send Mehul the file). The issue assignees are the real record.
+Each block: 1 to 2 slides by Sat Nov 28 and an **audio recording** of your part by Sun Nov 29, within your time limit (Kira 30 s, Harsh 40 s, Parth 30 s; no video or face needed). Send Mehul the file; he puts the audio over the slides. Steps and limits: docs/FINAL_PROJECT.md. The issue assignees are the real record.
 
 ### Open for everyone
 
