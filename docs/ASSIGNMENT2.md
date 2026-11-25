@@ -40,7 +40,7 @@ Grading: 30% of the course. Criteria 5, challenges 15, risk plan 10. Rubric: acc
 
 ## Submission 2: team or individual (answered Nov 24)
 
-The professor answered: a team may create **one risk disclosure plan together** (for example one document), and **each person must upload it to Canvas individually**. Whether we write one team plan or each keep our own is being decided (see TEAM.md). Either way, upload it yourself by **Wed Dec 2, 11:59 PM ET**.
+The professor answered: a team may create **one risk disclosure plan together** (for example one document), and **each person must upload it to Canvas individually**. **Our decision (Nov 25): each person writes and uploads their own plan** (no shared Assignment 2 work). Upload it yourself by **Wed Dec 2, 11:59 PM ET**.
 
 ## Optional and related
 
