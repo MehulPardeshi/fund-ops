@@ -6,9 +6,9 @@ The single place to see who owns what, by when, and what was decided. If it is n
 
 **Individual work (do your own, do not share):**
 
-1. **Assignment 2, Submission 1, due Tue Nov 24, 11:59 PM:** upload your own evaluation criteria PDF and your own dataset (the file the professor emailed you; you may improve your explanations, not the prompts or responses). There is nothing to split. Steps: [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md). Track on #41.
+1. **Assignment 2, Submission 1, due Wed Nov 25, 11:59 PM ET (extended from Nov 24):** upload your own evaluation criteria PDF and your own dataset (the file the professor emailed you; you may improve your explanations, not the prompts or responses). There is nothing to split. Steps: [docs/ASSIGNMENT2.md](docs/ASSIGNMENT2.md). Track on #41.
 2. **Assignment 2, Submission 2 (risk plan), due Wed Dec 2:** prepare your own. The Canvas page calls it a team submission, but the newer revised instructions (Nov 20) say every person submits individually; Mehul has asked the professor to confirm ([docs/COMMS.md](docs/COMMS.md)).
-3. **Lab 3: Metrics Dashboard Challenge, due Tue Nov 24, 11:59 PM ET (Canvas closes Wed Nov 25):** do the 40 steps in the course app (new access code issued Nov 23), then email the professor **and all the TAs** for your dataset. There is nothing to upload on Canvas (it is marked not graded), but the challenge is required. Comment "done" on #42.
+3. **Lab 3: Metrics Dashboard Challenge, due Mon Nov 30, 11:59 PM ET (extended from Nov 24):** do the 40 steps in the course app (new access code issued Nov 23), then email the professor **and all the TAs** for your dataset. There is nothing to upload on Canvas (it is marked not graded), but the challenge is required. Comment "done" on #42.
 
 **Team work (assigned on GitHub):**
 
@@ -48,10 +48,9 @@ The issue assignees are the real record.
 
 | Date | What |
 |---|---|
-| Tue Nov 24 | Assignment 2 Submission 1 (individual); Lab 3 (individual) |
-| Wed Nov 25 | Optional leaderboard competition closes |
+| Wed Nov 25 | Assignment 2 Submission 1 (individual, extended); optional leaderboard competition closes |
 | Sat Nov 28 | Pitch slides, backup slides and sources (A1) in the shared deck |
-| Mon Nov 30 | Team rehearsal with a timer (online, time to be agreed); deck final |
+| Mon Nov 30 | Lab 3 due (individual, extended); team rehearsal with a timer (online, time to be agreed); deck final |
 | Tue Dec 1 | Live 3-minute pitch and investor feedback (in class) |
 | Wed Dec 2 | Assignment 2 Submission 2 (risk plan); poster panels done |
 | Thu Dec 3 | Merger or acquisition decision and peer review (in class); Mehul assembles the poster |

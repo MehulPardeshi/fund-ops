@@ -23,8 +23,8 @@ For each challenge, write **at least 5 distinct prompts**. In the app, rate ever
 
 | Item | Format | Due |
 |---|---|---|
-| 1. Evaluation criteria: for each challenge, acceptable, unacceptable, how you decide, how you rate severity, impact on users | PDF | **Tue Nov 24, 11:59 PM ET** |
-| 2. Red-team dataset: challenge, prompt, response, severity score and reasoning. When you finish testing, **email the professor to request your dataset**. Review it for completeness and quality; you may edit your evaluations (scores and explanations), but do not change the prompts or responses. Then upload it | CSV or JSON | **Tue Nov 24, 11:59 PM ET** |
+| 1. Evaluation criteria: for each challenge, acceptable, unacceptable, how you decide, how you rate severity, impact on users | PDF | **Wed Nov 25, 11:59 PM ET** (extended from Nov 24) |
+| 2. Red-team dataset: challenge, prompt, response, severity score and reasoning. When you finish testing, **email the professor to request your dataset**. Review it for completeness and quality; you may edit your evaluations (scores and explanations), but do not change the prompts or responses. Then upload it | CSV or JSON | **Wed Nov 25, 11:59 PM ET** (extended from Nov 24) |
 | 3. Risk disclosure and risk management plan for Veritas (template in the PDF: system overview, data, risk register with likelihood × impact before and after controls, monitoring, sign-off) | PDF | **Wed Dec 2, 11:59 PM ET** (professor, Nov 20) |
 
 Grading: 30% of the course. Criteria 5, challenges 15, risk plan 10. Rubric: accuracy 10%, experiment design 20%, analytics 30%, insights 30%, scientific rigor 10%.
