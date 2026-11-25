@@ -38,9 +38,9 @@ Grading: 30% of the course. Criteria 5, challenges 15, risk plan 10. Rubric: acc
 5. If a reply shows "[No response]", refresh the page (or log in again) and run the test again in a fresh conversation.
 6. The app's Export buttons give an incomplete file (chat only, no ratings, only since the last refresh). Email the professor for your dataset instead.
 
-## Open question: Submission 2
+## Submission 2: team or individual (answered Nov 24)
 
-The Canvas page for Submission 2 (Nov 19) calls the risk plan a team submission, but the newer revised instructions (Nov 20) say every person submits individually. Mehul has asked the professor to confirm (see docs/COMMS.md). Until then, prepare your own risk plan.
+The professor answered: a team may create **one risk disclosure plan together** (for example one document), and **each person must upload it to Canvas individually**. Whether we write one team plan or each keep our own is being decided (see TEAM.md). Either way, upload it yourself by **Wed Dec 2, 11:59 PM ET**.
 
 ## Optional and related
 

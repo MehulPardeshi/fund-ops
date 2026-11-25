@@ -5,7 +5,7 @@
 | # | Deliverable | Who | Due | Status |
 |---|---|---|---|---|
 | 1 | Assignment 2 Submission 1: evaluation criteria PDF and red-team dataset | each person (individual) | **Wed Nov 25** (extended Nov 24) | Mehul submitted Nov 23 (#41) |
-| 2 | Assignment 2 Submission 2: risk disclosure and management plan PDF | each person (individual, being confirmed with the professor) | Wed Dec 2 | in progress (#41) |
+| 2 | Assignment 2 Submission 2: risk disclosure and management plan PDF | one team document allowed, but each person uploads it (professor, Nov 24) | Wed Dec 2 | Mehul's own plan ready; team or own plan being decided (#41) |
 | 3 | Lab 3 Metrics Dashboard Challenge | each person (individual) | **Mon Nov 30** (extended Nov 24) | Mehul done Nov 23 (#42) |
 | 4 | Funding pitch: live 3-minute pitch (Tue Dec 1) and a 5-slide deck plus appendix, submitted as PDF (Fri Dec 4) | team, four blocks (#34) | Tue Dec 1 / Fri Dec 4 | deck restructured to 5 slides Nov 24; product slides done, risk slide filled; tech and market due Sat Nov 28; no recordings (pitch is live) |
 | 5 | Investor feedback form | each person | Tue Dec 1, in class | (#38) |

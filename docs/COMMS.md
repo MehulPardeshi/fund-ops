@@ -54,8 +54,9 @@ She added (Nov 20) that more directions will be given in class.
 
 Team decision (Nov 21): even though the FAQ allows strategizing with other students, our team does not share prompts, ratings, explanations or testing strategy for Assignment 2. Each person works alone.
 
-## Open question (Nov 23): is Submission 2 (risk plan) individual or one per team?
+## Answered (Nov 24): is Submission 2 (risk plan) individual or one per team?
 
 - The Canvas page for "Assignment 2 AI Red Team Competition, Submission #2" (last edited Nov 19) says: "this is a final team / group submission (e.g. you may have 1 person submit the required PDF)".
 - The revised instructions PDF (Canvas announcement, Nov 20, newer) says in its FAQ: "Every person needs to make an individual Canvas submission", and Part 3 asks for a plan based on "your dataset".
 - Mehul is asking the professor (cc TAs) to confirm. Until she answers, everyone prepares their own risk plan (due Wed Dec 2).
+- **Answer (Nov 24, 10:49 PM):** "You may create one risk disclosure plan as a team, e.g. one document", and "each person needs to individually upload the document to Canvas."
